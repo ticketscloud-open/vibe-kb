@@ -1,0 +1,10 @@
+---
+title: Админка Vibe
+aliases:
+  - Админка Vibe
+tags:
+  - vibe
+---
+## Авторизация
+
+Для авторизации в админку требуется открыть https://app.vibeapp.ru и войти на сервис через Google используя свой рабочий аккаунт: `<email>@ticketscloud.com`

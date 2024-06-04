@@ -1,6 +1,14 @@
 ---
-title: Welcome to Quartz
+title: "Vibe: база знаний"
+aliases:
+  - Home
+  - Главная
 ---
+# Проекты
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+- [[Checkpoint|Сервис сканирования]]
+	- [[Checkpoint-Mobile|Приложение сканирования]]
+	- [[Checkpoint-Dashboard|Дашборд (админка) сканирования]]
+- [[Vibe]]
+	- [[Vibe-Admin|Админка Vibe]]
+- [[Common]]
