@@ -1,14 +1,15 @@
 ---
-title: "Vibe: база знаний"
+title: "Vibe: Главная"
 aliases:
   - Home
   - Главная
 ---
 # Проекты
 
-- [[Checkpoint|Сервис сканирования]]
+- [[Checkpoint/|Сервис сканирования]]
 	- [[Checkpoint-Mobile|Приложение сканирования]]
 	- [[Checkpoint-Dashboard|Дашборд (админка) сканирования]]
-- [[Vibe]]
+- [[Vibe/|Vibe]]
 	- [[Vibe-Admin|Админка Vibe]]
-- [[Common]]
+	- [[Vibe-KB|База данных Vibe]]
+- [[Common|Общие вопросы]]
