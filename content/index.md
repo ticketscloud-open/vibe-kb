@@ -12,4 +12,4 @@ aliases:
 - [[Vibe/|Vibe]]
 	- [[Vibe-Admin|Админка Vibe]]
 	- [[Vibe-KB|База данных Vibe]]
-- [[Common|Общие вопросы]]
+- [[Common/|Общие вопросы]]

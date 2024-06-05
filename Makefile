@@ -4,6 +4,6 @@ build: node_modules
 node_modules: package-lock.json
 	npm install
 
-run: node_modules
+run dev: node_modules
 	npx quartz build --serve
 
