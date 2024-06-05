@@ -26,4 +26,4 @@ git clone https://github.com/ticketscloud/vibe-kb.git
 Все статьи создаются и редактируются в папке `content/`. Изображения сохранять в папку `content/assets`. Obsidian использует [[Markdown]] синтаксис для редактирования текста.
 ## Синхронизация изменений
 
-> [!todo] Не готово
+Для синхронизации изменений мы используем плагин [Obsidian-git](https://github.com/denolehov/obsidian-git)
