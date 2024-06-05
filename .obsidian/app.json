@@ -1,0 +1,16 @@
+{
+  "promptDelete": false,
+  "userIgnoreFilters": [
+    "quartz/",
+    "node_modules/",
+    "public/",
+    "docs/"
+  ],
+  "trashOption": "none",
+  "alwaysUpdateLinks": true,
+  "readableLineLength": true,
+  "showInlineTitle": false,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "content",
+  "attachmentFolderPath": "content"
+}

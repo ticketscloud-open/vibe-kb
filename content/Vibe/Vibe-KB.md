@@ -5,7 +5,9 @@ aliases:
 tags:
   - vibe
 ---
-> [!info] База знаний Vibe – архив статей по проектам Vibe
+База знаний это архив статей по проектам Vibe. Предназначена для использования внутри компании.
+
+Система базируется на [[Obsidian]], трансляция в web-сайт осуществляется при помощи  [Quartz](https://quartz.jzhao.xyz/) через [Github](https://github.com).
 
 ## Начало работы
 
@@ -24,6 +26,15 @@ git clone https://github.com/ticketscloud/vibe-kb.git
 ## Создание и редактирование статей
 
 Все статьи создаются и редактируются в папке `content/`. Изображения сохранять в папку `content/assets`. Obsidian использует [[Markdown]] синтаксис для редактирования текста.
+
 ## Синхронизация изменений
 
-Для синхронизации изменений мы используем плагин [Obsidian-git](https://github.com/denolehov/obsidian-git)
+Для синхронизации изменений мы используем плагин [Obsidian-git](https://github.com/denolehov/obsidian-git). После внесения изменений вызовите командную панель ==Cmd+P== для MacOS и вызовите команду `Git: create backup`.
+
+> [!tip] Для вызова командной панели (command pallete) можно также воспользоваться кнопкой `>_` в панели слева
+
+> [!warning] Для синхронизации изменений ваша учетная запись на Github должна обладать правами на запись в репозиторий [ticketscloud/vibe-kb](https://github.com/ticketscloud/vibe-kb)
+
+![[Pasted image 20240605095902.png]]
+
+Obsidian сохранить все изменения в Git и отправит их в репозиторий. 
