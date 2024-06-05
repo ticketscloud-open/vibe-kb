@@ -149,7 +149,11 @@
   },
   "active": "d75d5ac9a010e7e2",
   "lastOpenFiles": [
+    "content/Vibe/Vibe-Admin.md",
     "content/Vibe/Vibe-KB.md",
+    "content/Checkpoint/Checkpoint-Mobile.md",
+    "content/Checkpoint/Checkpoint-Dashboard.md",
+    "content/Common/Markdown.md",
     "public/assets/Pasted-image-20240605095902.png",
     "public/Pasted-image-20240605095902.png",
     "content/assets/Pasted image 20240605095902.png",
@@ -168,7 +172,6 @@
     "content/Common/Obsidian.md",
     "content/index.md",
     "content/Common/index.md",
-    "content/Common/Markdown.md",
     "content/Common.md",
     "public/static/og-image.png",
     "content/assets/Screenshot 2024-06-04 at 22.05.52.png",
@@ -178,12 +181,9 @@
     "content/Vibe/index.md",
     "content/Vibe/Vibe.md",
     "docs/advanced/index.md",
-    "content/Checkpoint/Checkpoint-Mobile.md",
-    "content/Checkpoint/Checkpoint-Dashboard.md",
     "docs/features/index.md",
     "docs/features/breadcrumbs.md",
     "docs/advanced/architecture.md",
-    "content/Vibe/Vibe-Admin.md",
     "README.md",
     "CODE_OF_CONDUCT.md"
   ]
