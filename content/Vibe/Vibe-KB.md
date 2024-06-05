@@ -37,4 +37,4 @@ git clone https://github.com/ticketscloud/vibe-kb.git
 
 ![[Pasted image 20240605095902.png]]
 
-Obsidian сохранить все изменения в Git и отправит их в репозиторий. После [сборки](https://github.com/ticketscloud/vibe-kb/actions) обновленная база будет доступна по адресу: 
+Obsidian сохранить все изменения в Git и отправит их в репозиторий. После [сборки](https://github.com/ticketscloud/vibe-kb/actions) обновленная база будет доступна по адресу: https://ticketscloud.github.io/vibe-kb/
