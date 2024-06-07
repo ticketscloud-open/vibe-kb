@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Vibe/Vibe-KB.md",
+                "file": "content/Vibe/Изменение статуса билета в Vibe.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/Vibe/Vibe-KB.md",
+                "file": "content/Vibe/Изменение статуса билета в Vibe.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/Vibe/Vibe-KB.md",
+                "file": "content/Vibe/Изменение статуса билета в Vibe.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/Vibe/Vibe-KB.md"
+                "file": "content/Vibe/Изменение статуса билета в Vibe.md"
               }
             }
           }
@@ -149,12 +149,14 @@
   },
   "active": "d75d5ac9a010e7e2",
   "lastOpenFiles": [
-    "content/Common/Obsidian.md",
-    "content/Vibe/Vibe-KB.md",
+    "content/Vibe/Перенос билета другому пользователю.md",
     "content/Vibe/Изменение статуса билета в Vibe.md",
     "content/Vibe/Vibe-Admin.md",
+    "content/index.md",
     "content/Checkpoint/Checkpoint-Mobile.md",
     "content/Checkpoint/Checkpoint-Dashboard.md",
+    "content/Vibe/Vibe-KB.md",
+    "content/Common/Obsidian.md",
     "content/Common/Markdown.md",
     "public/assets/Pasted-image-20240605095902.png",
     "public/Pasted-image-20240605095902.png",
@@ -171,7 +173,6 @@
     "public/postscript.js",
     "public/prescript.js",
     "public/Главная.html",
-    "content/index.md",
     "content/Common/index.md",
     "content/Common.md",
     "public/static/og-image.png",
