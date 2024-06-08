@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Vibe/Изменение статуса билета в Vibe.md",
+                "file": "content/index.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/Vibe/Изменение статуса билета в Vibe.md",
+                "file": "content/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/Vibe/Изменение статуса билета в Vibe.md",
+                "file": "content/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/Vibe/Изменение статуса билета в Vibe.md"
+                "file": "content/index.md"
               }
             }
           }
@@ -149,12 +149,15 @@
   },
   "active": "d75d5ac9a010e7e2",
   "lastOpenFiles": [
+    "content/Checkpoint/FAQ (Checkpoint).md",
+    "content/Checkpoint/Checkpoint.md",
+    "content/Checkpoint/Checkpoint-Mobile.md",
+    "content/Checkpoint/Checkpoint-Dashboard.md",
+    "content/Checkpoint/index.md",
     "content/Vibe/Перенос билета другому пользователю.md",
     "content/Vibe/Изменение статуса билета в Vibe.md",
     "content/Vibe/Vibe-Admin.md",
     "content/index.md",
-    "content/Checkpoint/Checkpoint-Mobile.md",
-    "content/Checkpoint/Checkpoint-Dashboard.md",
     "content/Vibe/Vibe-KB.md",
     "content/Common/Obsidian.md",
     "content/Common/Markdown.md",
@@ -177,9 +180,7 @@
     "content/Common.md",
     "public/static/og-image.png",
     "content/assets/Screenshot 2024-06-04 at 22.05.52.png",
-    "Checkpoint.md",
     "Vibe.md",
-    "content/Checkpoint/index.md",
     "content/Vibe/index.md",
     "content/Vibe/Vibe.md",
     "docs/advanced/index.md",
