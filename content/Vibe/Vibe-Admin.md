@@ -7,7 +7,9 @@ tags:
 ---
 ## Авторизация
 
-В правом верхнем углу надпись **For kryptonians only v2** является ссылкой на авторизацию в админке. **For kryptonians only** – ведёт на админку [первой версии](https://app.vibeapp.ru/sys/brain). **V2** — ведёт на админку [второй версии](https://app.vibeapp.ru/v2/brain)
+Основной адрес: https://app.vibeapp.ru
+
+В правом верхнем углу страницы найдите надпись **For kryptonians only v2**. Она является ссылкой на авторизацию в админке. **For kryptonians only** – ведёт на админку [первой версии](https://app.vibeapp.ru/sys/brain). **V2** — ведёт на админку [второй версии](https://app.vibeapp.ru/v2/brain)
 
 Авторизация осуществляется через Google используя свой рабочий аккаунт: `<email>@ticketscloud.com`
 ## Админка v1
