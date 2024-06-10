@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Checkpoint/FAQ (Checkpoint).md",
+                "file": "content/Vibe/Изменение статуса (использованного, погашенного) билета в Vibe.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/Checkpoint/FAQ (Checkpoint).md",
+                "file": "content/Vibe/Изменение статуса (использованного, погашенного) билета в Vibe.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/Checkpoint/FAQ (Checkpoint).md",
+                "file": "content/Vibe/Изменение статуса (использованного, погашенного) билета в Vibe.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/Checkpoint/FAQ (Checkpoint).md"
+                "file": "content/Vibe/Изменение статуса (использованного, погашенного) билета в Vibe.md"
               }
             }
           }
@@ -149,21 +149,24 @@
   },
   "active": "d75d5ac9a010e7e2",
   "lastOpenFiles": [
+    "content/Vibe/Перенос (трансфер) билета другому пользователю.md",
+    "content/Vibe/Vibe-Admin.md",
+    "content/Pasted image 20240610104605.png",
+    "content/Vibe/Изменение статуса (использованного, погашенного) билета в Vibe.md",
+    "content/assets/choose-vault.png",
+    "content/assets/backup.png",
+    "content/assets/allocate.png",
+    "content/Common/Markdown.md",
+    "content/Checkpoint/FAQ (Checkpoint).md",
     "content/index.md",
     "content/Checkpoint/Checkpoint-Mobile.md",
-    "content/Checkpoint/FAQ (Checkpoint).md",
     "content/Checkpoint/Checkpoint.md",
     "content/Checkpoint/Checkpoint-Dashboard.md",
     "content/Checkpoint/index.md",
-    "content/Vibe/Перенос билета другому пользователю.md",
-    "content/Vibe/Изменение статуса билета в Vibe.md",
-    "content/Vibe/Vibe-Admin.md",
     "content/Vibe/Vibe-KB.md",
     "content/Common/Obsidian.md",
-    "content/Common/Markdown.md",
     "public/assets/Pasted-image-20240605095902.png",
     "public/Pasted-image-20240605095902.png",
-    "content/assets/Pasted image 20240605095902.png",
     "public/404.html",
     "public/static/icon.png",
     "public/assets/Screenshot-2024-06-04-at-22.05.52.png",
@@ -179,7 +182,6 @@
     "content/Common/index.md",
     "content/Common.md",
     "public/static/og-image.png",
-    "content/assets/Screenshot 2024-06-04 at 22.05.52.png",
     "Vibe.md",
     "content/Vibe/index.md",
     "content/Vibe/Vibe.md",
