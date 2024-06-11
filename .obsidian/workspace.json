@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Vibe/Vibe-Mobile.md",
+                "file": "content/Checkpoint/История версий.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/Vibe/Vibe-Mobile.md",
+                "file": "content/Checkpoint/История версий.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/Vibe/Vibe-Mobile.md",
+                "file": "content/Checkpoint/История версий.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/Vibe/Vibe-Mobile.md"
+                "file": "content/Checkpoint/История версий.md"
               }
             }
           }
@@ -149,9 +149,9 @@
   },
   "active": "d75d5ac9a010e7e2",
   "lastOpenFiles": [
+    "content/Vibe/Vibe-Mobile.md",
     "content/Vibe/Vibe-KB.md",
     "content/Vibe/Vibe-Admin.md",
-    "content/Vibe/Vibe-Mobile.md",
     "content/Checkpoint/Checkpoint-Mobile.md",
     "content/Vibe/История версий.md",
     "content/index.md",
