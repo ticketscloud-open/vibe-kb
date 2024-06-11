@@ -11,6 +11,7 @@ aliases:
 	- [[Checkpoint-Dashboard|Дашборд (админка) сканирования]]
 	- [[FAQ (Checkpoint)]]
 - [[Vibe/|Vibe]]
+	- [[Vibe-Mobile|Мобильное приложение Vibe]]
 	- [[Vibe-Admin|Админка Vibe]]
 	- [[Vibe-KB|База данных Vibe]]
 - [[Common/|Общие вопросы]]
