@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Vibe/Vibe-Admin.md",
+                "file": "content/Checkpoint/История версий.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,8 +86,8 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/Vibe/Vibe-Admin.md",
-                "collapseAll": false,
+                "file": "content/Checkpoint/История версий.md",
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/Vibe/Vibe-Admin.md",
+                "file": "content/Checkpoint/История версий.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,16 +126,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/Vibe/Vibe-Admin.md"
+                "file": "content/Checkpoint/История версий.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -147,21 +147,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d75d5ac9a010e7e2",
+  "active": "55dae22042f45d8f",
   "lastOpenFiles": [
+    "content/index.md",
+    "content/Checkpoint/Checkpoint-Mobile.md",
+    "content/Checkpoint/История версий.md",
+    "content/Vibe/История версий.md",
     "content/Vibe/Перенос (трансфер) билета другому пользователю.md",
     "content/Vibe/Изменение (воскрешение) статуса (использованного, погашенного) билета в Vibe.md",
-    "content/Pasted image 20240610114447.png",
     "content/Vibe/Vibe-Admin.md",
     "content/Vibe/Vibe-KB.md",
+    "content/Vibe/index.md",
+    "content/Pasted image 20240610114447.png",
     "content/Pasted image 20240610104605.png",
     "content/assets/choose-vault.png",
     "content/assets/backup.png",
     "content/assets/allocate.png",
     "content/Common/Markdown.md",
     "content/Checkpoint/FAQ (Checkpoint).md",
-    "content/index.md",
-    "content/Checkpoint/Checkpoint-Mobile.md",
     "content/Checkpoint/Checkpoint.md",
     "content/Checkpoint/Checkpoint-Dashboard.md",
     "content/Checkpoint/index.md",
@@ -184,7 +187,6 @@
     "content/Common.md",
     "public/static/og-image.png",
     "Vibe.md",
-    "content/Vibe/index.md",
     "content/Vibe/Vibe.md",
     "docs/advanced/index.md",
     "docs/features/index.md",
