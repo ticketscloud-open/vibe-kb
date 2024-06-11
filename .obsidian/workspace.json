@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Checkpoint/История версий.md",
+                "file": "content/Vibe/Vibe-Mobile.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/Checkpoint/История версий.md",
+                "file": "content/Vibe/Vibe-Mobile.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/Checkpoint/История версий.md",
+                "file": "content/Vibe/Vibe-Mobile.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/Checkpoint/История версий.md"
+                "file": "content/Vibe/Vibe-Mobile.md"
               }
             }
           }
@@ -147,12 +147,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "55dae22042f45d8f",
+  "active": "d75d5ac9a010e7e2",
   "lastOpenFiles": [
-    "content/index.md",
+    "content/Vibe/История версий.md",
+    "content/Vibe/Vibe-Mobile.md",
     "content/Checkpoint/Checkpoint-Mobile.md",
     "content/Checkpoint/История версий.md",
-    "content/Vibe/История версий.md",
+    "content/index.md",
     "content/Vibe/Перенос (трансфер) билета другому пользователю.md",
     "content/Vibe/Изменение (воскрешение) статуса (использованного, погашенного) билета в Vibe.md",
     "content/Vibe/Vibe-Admin.md",
