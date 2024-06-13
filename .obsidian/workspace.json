@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Vibe/Белый экран в админке.md",
+                "file": "content/Vibe/Vibeapp.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/Vibe/Белый экран в админке.md",
+                "file": "content/Vibe/Vibeapp.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/Vibe/Белый экран в админке.md",
+                "file": "content/Vibe/Vibeapp.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/Vibe/Белый экран в админке.md"
+                "file": "content/Vibe/Vibeapp.md"
               }
             }
           }
@@ -147,13 +147,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "07134d50d739378f",
+  "active": "d3e1a44359ef5478",
   "lastOpenFiles": [
-    "content/Vibe/Vibe-Admin.md",
-    "content/Vibe/Белый экран в админке.md",
-    "content/Vibe/Перенос (трансфер) билета другому пользователю.md",
     "content/Vibe/История версий.md",
-    "content/Vibe/Vibe-Mobile.md",
+    "content/Vibe/Vibeapp.md",
+    "content/Vibe/Белый экран в админке.md",
+    "content/Vibe/Vibe-Admin.md",
+    "content/Vibe/Перенос (трансфер) билета другому пользователю.md",
     "content/Checkpoint/История версий.md",
     "content/Vibe/Vibe-KB.md",
     "content/Checkpoint/Checkpoint-Mobile.md",
