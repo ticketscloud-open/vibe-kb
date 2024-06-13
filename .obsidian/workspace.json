@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Vibe/Vibeapp.md",
+                "file": "content/Vibe/Белый экран в админке.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/Vibe/Vibeapp.md",
+                "file": "content/Vibe/Белый экран в админке.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/Vibe/Vibeapp.md",
+                "file": "content/Vibe/Белый экран в админке.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/Vibe/Vibeapp.md"
+                "file": "content/Vibe/Белый экран в админке.md"
               }
             }
           }
@@ -147,35 +147,38 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d3e1a44359ef5478",
+  "active": "07134d50d739378f",
   "lastOpenFiles": [
-    "content/Vibe/История версий.md",
-    "content/Vibe/Vibeapp.md",
+    "content/Common/Очистка кеша в браузере.md",
     "content/Vibe/Белый экран в админке.md",
-    "content/Vibe/Vibe-Admin.md",
-    "content/Vibe/Перенос (трансфер) билета другому пользователю.md",
-    "content/Checkpoint/История версий.md",
-    "content/Vibe/Vibe-KB.md",
-    "content/Checkpoint/Checkpoint-Mobile.md",
-    "content/index.md",
+    "content/Common/assets/cache2.png",
+    "content/Common/assets/cache1.png",
+    "content/Common/assets",
+    "content/Pasted image 20240610114447.png",
     "content/Pasted image 20240610104605.png",
+    "content/Vibe/Vibe-Admin.md",
+    "content/Checkpoint/Checkpoint-Mobile.md",
+    "content/Checkpoint/Checkpoint-Dashboard.md",
+    "content/Checkpoint/Checkpoint.md",
+    "content/Checkpoint/FAQ (Checkpoint).md",
+    "content/Checkpoint/index.md",
+    "content/Checkpoint/История версий.md",
+    "content/Vibe/Vibeapp.md",
+    "content/Vibe/История версий.md",
+    "content/Vibe/Перенос (трансфер) билета другому пользователю.md",
+    "content/Vibe/Vibe-KB.md",
+    "content/index.md",
     "content/Vibe/index.md",
     "content/Vibe/Изменение (воскрешение) статуса (использованного, погашенного) билета в Vibe.md",
-    "content/Pasted image 20240610114447.png",
     "content/assets/choose-vault.png",
     "content/assets/backup.png",
     "content/assets/allocate.png",
     "content/Common/Markdown.md",
-    "content/Checkpoint/FAQ (Checkpoint).md",
-    "content/Checkpoint/Checkpoint.md",
-    "content/Checkpoint/Checkpoint-Dashboard.md",
-    "content/Checkpoint/index.md",
     "content/Common/Obsidian.md",
     "public/assets/Pasted-image-20240605095902.png",
     "public/Pasted-image-20240605095902.png",
     "public/404.html",
     "public/static/icon.png",
-    "public/assets/Screenshot-2024-06-04-at-22.05.52.png",
     "public/static/contentIndex.json",
     "public/index.xml",
     "public/sitemap.xml",
@@ -184,16 +187,12 @@
     "public/Common/Markdown.html",
     "public/postscript.js",
     "public/prescript.js",
-    "public/Главная.html",
     "content/Common/index.md",
     "content/Common.md",
-    "public/static/og-image.png",
     "Vibe.md",
     "content/Vibe/Vibe.md",
     "docs/advanced/index.md",
     "docs/features/index.md",
-    "docs/features/breadcrumbs.md",
-    "docs/advanced/architecture.md",
-    "README.md"
+    "docs/features/breadcrumbs.md"
   ]
 }

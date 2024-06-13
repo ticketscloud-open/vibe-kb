@@ -12,5 +12,5 @@
   "showInlineTitle": true,
   "newFileLocation": "folder",
   "newFileFolderPath": "content",
-  "attachmentFolderPath": "content"
+  "attachmentFolderPath": "./"
 }
