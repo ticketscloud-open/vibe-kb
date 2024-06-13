@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Common/Очистка кеша в браузере.md",
+                "file": "content/Vibe/Vibe-Admin.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/Common/Очистка кеша в браузере.md",
+                "file": "content/Vibe/Vibe-Admin.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/Common/Очистка кеша в браузере.md",
+                "file": "content/Vibe/Vibe-Admin.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/Common/Очистка кеша в браузере.md"
+                "file": "content/Vibe/Vibe-Admin.md"
               }
             }
           }
@@ -149,16 +149,17 @@
   },
   "active": "07134d50d739378f",
   "lastOpenFiles": [
-    "content/Vibe/assets/transfer2.png",
+    "content/Vibe/Белый экран в админке.md",
+    "content/Vibe/Vibe-Admin.md",
     "content/Vibe/Перенос (трансфер) билета другому пользователю.md",
+    "content/Vibe/Изменение (воскрешение) статуса (использованного, погашенного) билета в Vibe.md",
+    "content/Common/Очистка кеша в браузере.md",
+    "content/Vibe/assets/transfer2.png",
     "content/Vibe/assets/transfer.png",
     "content/Vibe/assets",
-    "content/Vibe/Белый экран в админке.md",
-    "content/Common/Очистка кеша в браузере.md",
     "content/Common/assets/cache2.png",
     "content/Common/assets/cache1.png",
     "content/Common/assets",
-    "content/Vibe/Vibe-Admin.md",
     "content/Checkpoint/Checkpoint-Mobile.md",
     "content/Checkpoint/Checkpoint-Dashboard.md",
     "content/Checkpoint/Checkpoint.md",
@@ -170,7 +171,6 @@
     "content/Vibe/Vibe-KB.md",
     "content/index.md",
     "content/Vibe/index.md",
-    "content/Vibe/Изменение (воскрешение) статуса (использованного, погашенного) билета в Vibe.md",
     "content/assets/choose-vault.png",
     "content/assets/backup.png",
     "content/assets/allocate.png",
