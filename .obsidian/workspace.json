@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "382c91b1e57c68b7",
+        "id": "f723619b1456b83b",
         "type": "tabs",
         "children": [
           {
-            "id": "d75d5ac9a010e7e2",
+            "id": "07134d50d739378f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Vibe/Vibe-Admin.md",
+                "file": "content/Vibe/Белый экран в админке.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/Vibe/Vibe-Admin.md",
+                "file": "content/Vibe/Белый экран в админке.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/Vibe/Vibe-Admin.md",
+                "file": "content/Vibe/Белый экран в админке.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/Vibe/Vibe-Admin.md"
+                "file": "content/Vibe/Белый экран в админке.md"
               }
             }
           }
@@ -147,10 +147,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d75d5ac9a010e7e2",
+  "active": "07134d50d739378f",
   "lastOpenFiles": [
-    "content/Белый экран в админке.md",
     "content/Vibe/Vibe-Admin.md",
+    "content/Vibe/Белый экран в админке.md",
     "content/Vibe/Перенос (трансфер) билета другому пользователю.md",
     "content/Vibe/История версий.md",
     "content/Vibe/Vibe-Mobile.md",
