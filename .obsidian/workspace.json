@@ -11,8 +11,13 @@
             "id": "427fef76d020dc51",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "conflict-files-obsidian-git.md"
+              }
             }
           }
         ]
@@ -140,6 +149,25 @@
   },
   "active": "427fef76d020dc51",
   "lastOpenFiles": [
+    "content/assets/choose-vault.png",
+    "content/assets/backup.png",
+    "content/assets/allocate.png",
+    "content/Vibe/Перенос (трансфер) билета другому пользователю.md",
+    "content/Vibe/История версий.md",
+    "content/Vibe/Изменение (воскрешение) статуса (использованного, погашенного) билета в Vibe.md",
+    "content/Vibe/Белый экран в админке.md",
+    "content/Vibe/assets/transfer2.png",
+    "content/Vibe/assets/transfer.png",
+    "content/Vibe/assets",
+    "content/Vibe/Vibeapp.md",
+    "content/Common/Очистка кеша в браузере.md",
+    "content/Common/assets/cache2.png",
+    "content/Common/assets/cache1.png",
+    "content/Common/assets",
+    "content/Checkpoint/История версий.md",
+    "content/Checkpoint/FAQ (Checkpoint).md",
+    "content/Checkpoint/Checkpoint.md",
+    "conflict-files-obsidian-git.md",
     "docs/philosophy.md",
     "content/Checkpoint/Checkpoint-Mobile.md",
     "docs/setting up your GitHub repository.md",
@@ -157,31 +185,15 @@
     "content/assets/Screenshot 2024-06-04 at 22.05.52.png",
     "content/assets/Pasted image 20240605095902.png",
     "content/Checkpoint/Checkpoint-Dashboard.md",
-    "content/Checkpoint/index.md",
-    "docs/features/RSS Feed.md",
-    "docs/features/OxHugo compatibility.md",
-    "docs/features/breadcrumbs.md",
-    "docs/features/backlinks.md",
-    "docs/advanced/paths.md",
-    "docs/advanced/making plugins.md",
-    "docs/advanced/index.md",
-    "docs/advanced/creating components.md",
-    "docs/advanced/architecture.md",
     "public/assets/Pasted-image-20240605095902.png",
     "public/Pasted-image-20240605095902.png",
     "public/404.html",
-    "public/static/icon.png",
-    "public/assets/Screenshot-2024-06-04-at-22.05.52.png",
     "public/static/contentIndex.json",
     "public/index.xml",
     "public/sitemap.xml",
     "public/index.html",
     "public/Common/Obsidian.html",
     "public/Common/Markdown.html",
-    "public/postscript.js",
-    "public/prescript.js",
-    "public/Главная.html",
-    "content/index.md",
-    "public/static/og-image.png"
+    "public/postscript.js"
   ]
 }

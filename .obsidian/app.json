@@ -9,8 +9,8 @@
   "trashOption": "none",
   "alwaysUpdateLinks": true,
   "readableLineLength": true,
-  "showInlineTitle": false,
+  "showInlineTitle": true,
   "newFileLocation": "folder",
   "newFileFolderPath": "content",
-  "attachmentFolderPath": "content"
+  "attachmentFolderPath": "./"
 }

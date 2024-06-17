@@ -18,7 +18,7 @@ git clone https://github.com/ticketscloud/vibe-kb.git
 ```
 3. Далее потребуется [[Obsidian]] который нужно будет скачать и установить [по ссылке](https://obsidian.md/download)
 4. Открываем [[Obsidian]] (если окно ниже не открылось **File -> Open Vault**)
-![[Screenshot 2024-06-04 at 22.05.52.png]]
+![[choose-vault.png]]
 	выбираем **Open folder as vault** и открываем путь к нашему скачанному git-репозиторию
 
 5. Вы готовы к редактированию и добавлению статей в эту базу знаний.
@@ -37,6 +37,6 @@ git clone https://github.com/ticketscloud/vibe-kb.git
 
 > [!warning] Для синхронизации изменений ваша учетная запись на Github должна обладать правами на запись в репозиторий [ticketscloud/vibe-kb](https://github.com/ticketscloud/vibe-kb)
 
-![[Pasted image 20240605095902.png]]
+![[backup.png]]
 
 Obsidian сохранить все изменения в Git и отправит их в репозиторий. После [сборки](https://github.com/ticketscloud/vibe-kb/actions) (обычно занимает несколько минут) обновленная база будет доступна по адресу: https://kb.vibeapp.ru.

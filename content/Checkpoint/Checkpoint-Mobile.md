@@ -5,6 +5,7 @@ title: Приложение сканирования
 tags:
   - checkpoint
 ---
+<<<<<<< HEAD
 # Quirks
 
 ## Как найти любой билет/сканирование?
@@ -39,3 +40,12 @@ tags:
 ### Сканирования по мероприятию
 
 Отображается список категорий с проходами и общим количеством билетов
+=======
+[[Checkpoint/История версий]]
+## Ссылки на загрузку приложения
+
+- [App Store (IOS)](https://apps.apple.com/ru/app/vibeapp/id1278862065)
+- [Google Play (Android)](https://play.google.com/store/apps/details?id=org.ticketscloud.ticketwallet)
+- [APK file](https://vibeapp.ru/android-download)
+
+>>>>>>> origin/main
