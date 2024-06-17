@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "382c91b1e57c68b7",
+        "id": "ebb1d464d1431e71",
         "type": "tabs",
         "children": [
           {
-            "id": "d75d5ac9a010e7e2",
+            "id": "427fef76d020dc51",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/Vibe/Vibe-KB.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -70,7 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 239.50260543823242
+    "width": 316.5
   },
   "right": {
     "id": "eeb5040327021950",
@@ -86,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/Vibe/Vibe-KB.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/Vibe/Vibe-KB.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "content/Vibe/Vibe-KB.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -147,18 +138,37 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d75d5ac9a010e7e2",
+  "active": "427fef76d020dc51",
   "lastOpenFiles": [
-    "content/Common/Obsidian.md",
-    "content/Vibe/Vibe-KB.md",
-    "content/Vibe/Изменение статуса билета в Vibe.md",
-    "content/Vibe/Vibe-Admin.md",
+    "docs/philosophy.md",
     "content/Checkpoint/Checkpoint-Mobile.md",
-    "content/Checkpoint/Checkpoint-Dashboard.md",
+    "docs/setting up your GitHub repository.md",
+    "docs/migrating from Quartz 3.md",
+    "Checkpoint.md",
+    "README.md",
+    "Vibe.md",
+    "content/Vibe/index.md",
+    "content/Vibe/Vibe-KB.md",
+    "content/Vibe/Vibe-Admin.md",
+    "content/Vibe/Изменение статуса билета в Vibe.md",
+    "content/Common/Obsidian.md",
     "content/Common/Markdown.md",
+    "content/Common/index.md",
+    "content/assets/Screenshot 2024-06-04 at 22.05.52.png",
+    "content/assets/Pasted image 20240605095902.png",
+    "content/Checkpoint/Checkpoint-Dashboard.md",
+    "content/Checkpoint/index.md",
+    "docs/features/RSS Feed.md",
+    "docs/features/OxHugo compatibility.md",
+    "docs/features/breadcrumbs.md",
+    "docs/features/backlinks.md",
+    "docs/advanced/paths.md",
+    "docs/advanced/making plugins.md",
+    "docs/advanced/index.md",
+    "docs/advanced/creating components.md",
+    "docs/advanced/architecture.md",
     "public/assets/Pasted-image-20240605095902.png",
     "public/Pasted-image-20240605095902.png",
-    "content/assets/Pasted image 20240605095902.png",
     "public/404.html",
     "public/static/icon.png",
     "public/assets/Screenshot-2024-06-04-at-22.05.52.png",
@@ -172,20 +182,6 @@
     "public/prescript.js",
     "public/Главная.html",
     "content/index.md",
-    "content/Common/index.md",
-    "content/Common.md",
-    "public/static/og-image.png",
-    "content/assets/Screenshot 2024-06-04 at 22.05.52.png",
-    "Checkpoint.md",
-    "Vibe.md",
-    "content/Checkpoint/index.md",
-    "content/Vibe/index.md",
-    "content/Vibe/Vibe.md",
-    "docs/advanced/index.md",
-    "docs/features/index.md",
-    "docs/features/breadcrumbs.md",
-    "docs/advanced/architecture.md",
-    "README.md",
-    "CODE_OF_CONDUCT.md"
+    "public/static/og-image.png"
   ]
 }
