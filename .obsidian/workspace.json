@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Vibe/Wireguard.md",
+                "file": "content/Checkpoint/Checkpoint-Mobile.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/Vibe/Wireguard.md",
+                "file": "content/Checkpoint/Checkpoint-Mobile.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/Vibe/Wireguard.md",
+                "file": "content/Checkpoint/Checkpoint-Mobile.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/Vibe/Wireguard.md"
+                "file": "content/Checkpoint/Checkpoint-Mobile.md"
               }
             }
           }
@@ -149,18 +149,18 @@
   },
   "active": "07134d50d739378f",
   "lastOpenFiles": [
-    "content/Checkpoint/История версий.md",
+    "content/Checkpoint/Checkpoint-Dashboard.md",
+    "content/Checkpoint/Checkpoint.md",
+    "content/Checkpoint/Checkpoint-Mobile.md",
+    "content/Checkpoint/FAQ (Checkpoint).md",
     "content/Vibe/Wireguard.md",
+    "content/Checkpoint/История версий.md",
     "content/Vibe/Vibeapp.md",
     "Vibe.md",
     "content/Vibe/Vibe-KB.md",
     "content/Vibe/Vibe-Admin.md",
     "content/Vibe/index.md",
     "content/Checkpoint/index.md",
-    "content/Checkpoint/FAQ (Checkpoint).md",
-    "content/Checkpoint/Checkpoint-Mobile.md",
-    "content/Checkpoint/Checkpoint-Dashboard.md",
-    "content/Checkpoint/Checkpoint.md",
     "content/Vibe/Перенос (трансфер) билета другому пользователю.md",
     "content/Vibe/История версий.md",
     "content/Vibe/Изменение (воскрешение) статуса (использованного, погашенного) билета в Vibe.md",
