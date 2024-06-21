@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Checkpoint/Checkpoint-Mobile.md",
+                "file": "content/Vibe/Перечитать стрим.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/Checkpoint/Checkpoint-Mobile.md",
+                "file": "content/Vibe/Перечитать стрим.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/Checkpoint/Checkpoint-Mobile.md",
+                "file": "content/Vibe/Перечитать стрим.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/Checkpoint/Checkpoint-Mobile.md"
+                "file": "content/Vibe/Перечитать стрим.md"
               }
             }
           }
@@ -149,12 +149,14 @@
   },
   "active": "07134d50d739378f",
   "lastOpenFiles": [
-    "content/Checkpoint/Checkpoint.md",
+    "content/Vibe/Technical FAQ.md",
+    "content/Vibe/Перечитать стрим.md",
     "content/Vibe/Vibeapp.md",
+    "content/Vibe/Wireguard.md",
     "content/Checkpoint/Checkpoint-Mobile.md",
+    "content/Checkpoint/Checkpoint.md",
     "content/Checkpoint/Checkpoint-Dashboard.md",
     "content/Checkpoint/FAQ (Checkpoint).md",
-    "content/Vibe/Wireguard.md",
     "content/Checkpoint/История версий.md",
     "Vibe.md",
     "content/Vibe/Vibe-KB.md",
@@ -192,8 +194,6 @@
     "content/Common/index.md",
     "content/Common.md",
     "content/Vibe/Vibe.md",
-    "docs/advanced/index.md",
-    "docs/features/index.md",
-    "docs/features/breadcrumbs.md"
+    "docs/advanced/index.md"
   ]
 }
