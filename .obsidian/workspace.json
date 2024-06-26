@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Vibe/Отправка пушей в админке.md",
+                "file": "content/Vibe/Начисление (сжигание) средств (бонусов) в админке.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/Vibe/Отправка пушей в админке.md",
+                "file": "content/Vibe/Начисление (сжигание) средств (бонусов) в админке.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/Vibe/Отправка пушей в админке.md",
+                "file": "content/Vibe/Начисление (сжигание) средств (бонусов) в админке.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/Vibe/Отправка пушей в админке.md"
+                "file": "content/Vibe/Начисление (сжигание) средств (бонусов) в админке.md"
               }
             }
           }
@@ -149,8 +149,11 @@
   },
   "active": "07134d50d739378f",
   "lastOpenFiles": [
-    "content/Vibe/Vibe-Admin.md",
+    "content/Vibe/История версий.md",
+    "content/Vibe/Изменение (воскрешение) статуса (использованного, погашенного) билета в Vibe.md",
+    "content/Vibe/Белый экран в админке.md",
     "content/Vibe/Отправка пушей в админке.md",
+    "content/Vibe/Vibe-Admin.md",
     "content/Vibe/assets/push test.png",
     "content/Vibe/assets/push fields.png",
     "content/Vibe/Technical FAQ.md",
@@ -160,7 +163,6 @@
     "content/Vibe/assets/balances.png",
     "content/Vibe/assets/customer1.png",
     "content/Vibe/Перенос (трансфер) билета другому пользователю.md",
-    "content/Vibe/Изменение (воскрешение) статуса (использованного, погашенного) билета в Vibe.md",
     "content/Vibe/Vibe-KB.md",
     "content/Vibe/Vibeapp.md",
     "content/Vibe/Wireguard.md",
@@ -174,8 +176,6 @@
     "Vibe.md",
     "content/Vibe/index.md",
     "content/Checkpoint/index.md",
-    "content/Vibe/История версий.md",
-    "content/Vibe/Белый экран в админке.md",
     "content/Common/Очистка кеша в браузере.md",
     "content/Vibe/assets/transfer2.png",
     "content/Vibe/assets/transfer.png",
