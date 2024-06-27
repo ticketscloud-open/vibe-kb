@@ -1,4 +1,10 @@
-[[Vibe/|Vibe]] - [[Vibe-Admin|Админка Vibe]] - [[Раздел клиентов (админка)|Vibe-Admin Customers]]
+---
+title: Начисление (сжигание) средств (бонусов) в админке
+aliases:
+  - Начисление (сжигание) средств (бонусов) в админке
+---
+
+[[Vibe/|Vibe]] - [[Vibe-Admin|Админка Vibe]] - [[Vibe-Admin Customers|Vibe-Admin Customers]]
 
 Начислить денежные средства (или бонусы) на счёт пользователя можно в [[Vibe-Admin|админке Vibe]]:
 

@@ -2,7 +2,7 @@
 tags:
   - vibe
 ---
-[[Vibe-Admin|Админка Vibe]] - [[Раздел билетов (админка)|Vibe-Admin Tickets]]
+[[Vibe-Admin|Админка Vibe]] - [[Vibe-Admin Tickets|Vibe-Admin Tickets]]
 
 Изменить статус возвращенного билета можно в [[Vibe-Admin|админке Vibe]]:
 

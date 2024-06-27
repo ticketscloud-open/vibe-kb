@@ -2,7 +2,8 @@
 tags:
   - vibe
 aliases:
-  - Vibe-Admin Pushes
+  - Раздел пуш-рассылок (админка)
+title: Раздел пуш-рассылок (админка)
 ---
 [[Vibe-Admin]]
 

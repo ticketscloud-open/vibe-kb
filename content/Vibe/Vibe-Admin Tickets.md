@@ -2,7 +2,8 @@
 tags:
   - vibe
 aliases:
-  - Vibe-Admin Tickets
+  - Раздел билетов (админка)
+title: Раздел билетов (админка)
 ---
 [[Vibe-Admin]]
 
