@@ -4,29 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "f723619b1456b83b",
+        "id": "eeb56cf92df5b750",
         "type": "tabs",
         "children": [
           {
-            "id": "07134d50d739378f",
+            "id": "55ee54e7e875f724",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Vibe/Vibe-Admin.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4b4633a2749881f0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/Vibe/Изменение (воскрешение) статуса (использованного, погашенного) билета в Vibe.md",
+                "file": "content/Vibe/Vibe-Admin Customers.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -99,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/Vibe/Vibe-Admin.md",
+                "file": "content/Vibe/Vibe-Admin Customers.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/Vibe/Vibe-Admin.md",
+                "file": "content/Vibe/Vibe-Admin Customers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/Vibe/Vibe-Admin.md"
+                "file": "content/Vibe/Vibe-Admin Customers.md"
               }
             }
           }
@@ -148,7 +135,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -160,43 +147,43 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "07134d50d739378f",
+  "active": "55ee54e7e875f724",
   "lastOpenFiles": [
-    "content/Vibe/assets/admin-list.png",
-    "content/Vibe/assets/admin-menu.png",
+    "content/Vibe/Получение отчета по пушам (push report).md",
     "content/Vibe/Vibe-Admin.md",
-    "content/Vibe/Vibe-Admin Pushes.md",
-    "content/Vibe/Vibe-Admin Send Push.md",
-    "content/Vibe/Vibe-Admin Customers.md",
-    "content/Vibe/Изменение (воскрешение) статуса (использованного, погашенного) билета в Vibe.md",
-    "content/Vibe/Vibe-Admin Tickets.md",
+    "content/Vibe/assets/admin-menu.png",
+    "content/Vibe/assets/admin-list.png",
     "content/Vibe/Vibe-admin manage balance.md",
+    "content/Vibe/Vibe-Admin Tickets.md",
+    "content/Vibe/Vibe-Admin Send Push.md",
+    "content/Vibe/Vibe-Admin Pushes.md",
+    "content/Vibe/Vibe-Admin Customers.md",
+    "content/Vibe/Начисление (сжигание) средств (бонусов) в админке.md",
     "content/Vibe/История версий.md",
-    "content/Vibe/Белый экран в админке.md",
-    "content/Vibe/Перенос (трансфер) билета другому пользователю.md",
-    "content/Vibe/Vibe-KB.md",
+    "content/Vibe/Изменение (воскрешение) статуса (использованного, погашенного) билета в Vibe.md",
     "content/Vibe/Vibeapp.md",
-    "content/Vibe/index.md",
+    "content/Vibe/Wireguard.md",
+    "content/Vibe/Отправка пушей в админке.md",
+    "content/Vibe/assets/report.png",
+    "content/Vibe/assets/circular_progress.png",
+    "content/Vibe/assets/circular_progress.png",
+    "content/Vibe/Перечитать стрим.md",
     "content/Vibe/assets/balance-form-2.png",
-    "content/Vibe/assets/balances 2.png",
-    "content/Vibe/assets/balance-form.png",
-    "content/Vibe/assets/balances.png",
-    "content/Vibe/assets/customer1.png",
-    "content/Vibe/assets/customer1.png",
-    "content/Vibe/assets/push test.png",
-    "content/Vibe/assets/push fields.png",
+    "content/Vibe/assets/create_report.png",
+    "content/Vibe/Vibe-KB.md",
+    "content/Vibe/Перенос (трансфер) билета другому пользователю.md",
+    "content/assets/allocate.png",
+    "content/assets/backup.png",
+    "content/assets/choose-vault.png",
+    "content/Vibe/Белый экран в админке.md",
     "content/Vibe/Technical FAQ.md",
     "2024-06-24.md",
-    "content/Vibe/Wireguard.md",
-    "content/Vibe/Перечитать стрим.md",
     "content/index.md",
     "content/Checkpoint/Checkpoint-Mobile.md",
     "content/Checkpoint/Checkpoint.md",
     "content/Checkpoint/Checkpoint-Dashboard.md",
     "content/Checkpoint/FAQ (Checkpoint).md",
     "content/Checkpoint/История версий.md",
-    "Vibe.md",
-    "content/Checkpoint/index.md",
     "content/Vibe/assets",
     "content/Common/assets",
     "public/404.html",
