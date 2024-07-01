@@ -3,10 +3,11 @@ title: Получение отчета по пушам (push report)
 tags:
   - vibe
 ---
-[[Vibe-Admin|Админка Vibe]]
+[[Vibe-Admin|Админка Vibe]] - [[Vibe-Admin Pushes|Раздел пуш-рассылок (админка)]]
 ## Получение отчета
 
 Для получения отчета по отдельному push-сообщению зайдите в раздел в админке Vibeapp – [Pushes](https://app.vibeapp.ru/v2/brain#/push). После этого нажмите кнопку `SHOW` интересующего push-сообщения. 
+
 > [!warning] Получение отчета доступно **только для отправленных сообщений**.
 
 ![[create_report.png]]
