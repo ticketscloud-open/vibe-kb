@@ -26,14 +26,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Vibe/Изменение (воскрешение) статуса (использованного, погашенного) билета в Vibe.md",
+                "file": "content/Vibe/Синхронизация заказа с TC.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -99,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/Vibe/Перечитать стрим.md",
+                "file": "content/Vibe/Синхронизация заказа с TC.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/Vibe/Перечитать стрим.md",
+                "file": "content/Vibe/Синхронизация заказа с TC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/Vibe/Перечитать стрим.md"
+                "file": "content/Vibe/Синхронизация заказа с TC.md"
               }
             }
           }
@@ -160,15 +161,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "07134d50d739378f",
+  "active": "4b4633a2749881f0",
   "lastOpenFiles": [
+    "content/Vibe/Pasted image 20240705160442.png",
+    "content/Vibe/Vibe-Admin.md",
+    "content/Vibe/Получение отчета по пушам (push report).md",
+    "content/Vibe/Синхронизация заказа с TC.md",
+    "content/Vibe/Белый экран в админке.md",
+    "content/Vibe/Изменение (воскрешение) статуса (использованного, погашенного) билета в Vibe.md",
+    "content/Vibe/Перечитать стрим.md",
     "content/Vibe/Technical FAQ.md",
     "content/Vibe/Vibe-Admin Send Push.md",
     "content/Vibe/Vibe-Admin Pushes.md",
-    "content/Vibe/Получение отчета по пушам (push report).md",
     "content/Vibe/assets/create_report.png",
-    "content/Vibe/Vibe-Admin.md",
-    "content/Vibe/Изменение (воскрешение) статуса (использованного, погашенного) билета в Vibe.md",
     "content/Vibe/Pasted image 20240701122520.png",
     "content/Vibe/Pasted image 20240701122512.png",
     "content/Vibe/Vibe-admin manage balance.md",
@@ -182,21 +187,18 @@
     "content/Vibe/assets/admin-menu.png",
     "content/Vibe/Vibe-Admin Tickets.md",
     "content/Vibe/История версий.md",
-    "content/Vibe/Белый экран в админке.md",
     "content/Vibe/Vibe-KB.md",
     "content/Vibe/Vibeapp.md",
     "content/Vibe/index.md",
     "content/Vibe/assets/balance-form-2.png",
     "2024-06-24.md",
     "content/Vibe/Wireguard.md",
-    "content/Vibe/Перечитать стрим.md",
     "content/index.md",
     "content/Checkpoint/Checkpoint-Mobile.md",
     "content/Checkpoint/Checkpoint.md",
     "content/Checkpoint/Checkpoint-Dashboard.md",
     "content/Checkpoint/FAQ (Checkpoint).md",
     "content/Checkpoint/История версий.md",
-    "Vibe.md",
     "content/Vibe/assets",
     "content/Common/assets",
     "public/404.html",
