@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Vibe/Vibe-Admin Pushes.md",
+                "file": "content/Checkpoint/Checkpoint-Admin.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -47,7 +47,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/Checkpoint/Настройка количества проходов для категории.md",
+                "file": "content/Checkpoint/Checkpoint-Admin.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/Checkpoint/Настройка количества проходов для категории.md",
+                "file": "content/Checkpoint/Checkpoint-Admin.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/Checkpoint/Настройка количества проходов для категории.md"
+                "file": "content/Checkpoint/Checkpoint-Admin.md"
               }
             }
           }
@@ -174,15 +174,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4b4633a2749881f0",
+  "active": "1845e4fbc8a7c76b",
   "lastOpenFiles": [
-    "content/Checkpoint/Checkpoint-Admin.md",
-    "content/Checkpoint/Настройка количества проходов для категории.md",
-    "content/Vibe/Vibe-Admin Pushes.md",
-    "content/Vibe/Vibe-Admin.md",
-    "content/Checkpoint/Checkpoint.md",
-    "content/Checkpoint/Checkpoint-Mobile.md",
     "content/Checkpoint/Checkpoint-Dashboard.md",
+    "content/Checkpoint/Checkpoint.md",
+    "content/Vibe/Vibe-Admin Pushes.md",
+    "content/Checkpoint/Настройка количества проходов для категории.md",
+    "content/Checkpoint/Checkpoint-Admin.md",
+    "content/Vibe/Vibe-Admin.md",
+    "content/Checkpoint/Checkpoint-Mobile.md",
     "content/Vibe/Vibe-Admin Customers.md",
     "content/Vibe/Добавление пользователя вручную.md",
     "content/Vibe/Vibe-admin manage balance.md",
