@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Vibe/Vibe-Admin.md",
+                "file": "content/Checkpoint/Настройка количества проходов для категории.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/Vibe/Vibe-Admin.md",
+                "file": "content/Checkpoint/Настройка количества проходов для категории.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/Vibe/Vibe-Admin.md",
+                "file": "content/Checkpoint/Настройка количества проходов для категории.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/Vibe/Vibe-Admin.md"
+                "file": "content/Checkpoint/Настройка количества проходов для категории.md"
               }
             }
           }
@@ -176,15 +176,20 @@
   },
   "active": "4b4633a2749881f0",
   "lastOpenFiles": [
+    "content/Checkpoint/Checkpoint-Admin.md",
+    "content/Checkpoint/Настройка количества проходов для категории.md",
+    "content/Vibe/Vibe-Admin Pushes.md",
+    "content/Vibe/Vibe-Admin.md",
+    "content/Checkpoint/Checkpoint.md",
+    "content/Checkpoint/Checkpoint-Mobile.md",
+    "content/Checkpoint/Checkpoint-Dashboard.md",
     "content/Vibe/Vibe-Admin Customers.md",
     "content/Vibe/Добавление пользователя вручную.md",
     "content/Vibe/Vibe-admin manage balance.md",
     "content/Vibe/assets/customers-create.png",
-    "content/Vibe/Vibe-Admin.md",
     "content/Vibe/Vibe-Admin Events.md",
     "content/Vibe/Синхронизация заказов для мероприятия с TC.md",
     "content/Vibe/Отправка сообщения в чат от имени организатора.md",
-    "content/Vibe/Vibe-Admin Pushes.md",
     "content/Vibe/Pasted image 20240711172846.png",
     "content/Vibe/assets/sync-order-confirm.png",
     "content/Vibe/Technical FAQ.md",
@@ -207,10 +212,6 @@
     "content/Vibe/Vibe-KB.md",
     "content/Vibe/Vibeapp.md",
     "content/Vibe/index.md",
-    "2024-06-24.md",
-    "content/Vibe/Wireguard.md",
-    "content/index.md",
-    "content/Checkpoint/Checkpoint-Mobile.md",
     "content/Vibe/assets",
     "content/Common/assets",
     "public/404.html",
