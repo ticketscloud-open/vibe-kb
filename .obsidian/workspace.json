@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Checkpoint/Checkpoint-Admin.md",
+                "file": "content/index.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/Checkpoint/Checkpoint-Admin.md",
+                "file": "content/index.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/Checkpoint/Checkpoint-Admin.md",
+                "file": "content/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/Checkpoint/Checkpoint-Admin.md"
+                "file": "content/index.md"
               }
             }
           }
@@ -176,11 +176,14 @@
   },
   "active": "1845e4fbc8a7c76b",
   "lastOpenFiles": [
+    "content/Checkpoint/Checkpoint-Admin.md",
+    "content/index.md",
+    "content/Vibe/index.md",
+    "content/Checkpoint/index.md",
     "content/Checkpoint/Checkpoint-Dashboard.md",
     "content/Checkpoint/Checkpoint.md",
     "content/Vibe/Vibe-Admin Pushes.md",
     "content/Checkpoint/Настройка количества проходов для категории.md",
-    "content/Checkpoint/Checkpoint-Admin.md",
     "content/Vibe/Vibe-Admin.md",
     "content/Checkpoint/Checkpoint-Mobile.md",
     "content/Vibe/Vibe-Admin Customers.md",
@@ -209,9 +212,6 @@
     "content/Vibe/assets/transfer2.png",
     "content/Vibe/Vibe-Admin Tickets.md",
     "content/Vibe/История версий.md",
-    "content/Vibe/Vibe-KB.md",
-    "content/Vibe/Vibeapp.md",
-    "content/Vibe/index.md",
     "content/Vibe/assets",
     "content/Common/assets",
     "public/404.html",
