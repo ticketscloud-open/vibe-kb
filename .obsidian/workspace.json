@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Vibe/Vibe-Admin Events.md",
+                "file": "content/Checkpoint/Smartcode.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/Vibe/Vibe-Admin Events.md",
+                "file": "content/Checkpoint/Smartcode.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/Vibe/Vibe-Admin Events.md",
+                "file": "content/Checkpoint/Smartcode.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/Vibe/Vibe-Admin Events.md"
+                "file": "content/Checkpoint/Smartcode.md"
               }
             }
           }
@@ -162,36 +162,37 @@
   },
   "active": "1845e4fbc8a7c76b",
   "lastOpenFiles": [
-    "content/Vibe/Отключение продаж и дарения для мероприятий.md",
+    "content/Checkpoint/Checkpoint.md",
+    "content/Checkpoint/Smartcode.md",
+    "content/Vibe/Technical FAQ.md",
+    "content/Vibe/Синхронизация заказов для мероприятия с TC.md",
+    "content/Vibe/Функционал Vibeapp.md",
     "content/Vibe/Vibe-Admin.md",
+    "content/Vibe/Vibe-admin manage balance.md",
+    "content/Vibe/Vibe-Admin Events.md",
+    "content/Checkpoint/Checkpoint-Mobile.md",
+    "content/Checkpoint/Checkpoint-Admin.md",
+    "content/Checkpoint/Checkpoint-Dashboard.md",
+    "content/Checkpoint/Настройка количества проходов для категории.md",
+    "content/Checkpoint/История версий.md",
+    "content/Checkpoint/index.md",
+    "content/Checkpoint/FAQ (Checkpoint).md",
+    "content/Vibe/Отключение продаж и дарения для мероприятий.md",
     "content/Vibe/Vibe-KB.md",
     "content/Vibe/assets/org-chat-message.png",
     "content/Vibe/assets/admin-tickets.png",
     "content/Vibe/Отправка сообщения в чат от имени организатора.md",
     "content/Vibe/assets/admin-ticket.png",
     "content/Vibe/Изменение (воскрешение) статуса (использованного, погашенного) билета в Vibe.md",
-    "content/Vibe/Vibe-admin manage balance.md",
-    "content/Vibe/Синхронизация заказов для мероприятия с TC.md",
     "content/Vibe/Перечитать стрим.md",
-    "content/Checkpoint/Настройка количества проходов для категории.md",
-    "content/Vibe/Vibe-Admin Events.md",
     "content/Vibe/Vibeapp.md",
     "content/Vibe/История версий.md",
-    "content/Vibe/Функционал Vibeapp.md",
     "content/Vibe/Vibe-Admin Pushes.md",
-    "content/Checkpoint/Checkpoint-Admin.md",
     "content/index.md",
     "content/Vibe/index.md",
-    "content/Checkpoint/index.md",
-    "content/Checkpoint/Checkpoint-Dashboard.md",
-    "content/Checkpoint/Checkpoint.md",
-    "content/Checkpoint/Checkpoint-Mobile.md",
     "content/Vibe/Vibe-Admin Customers.md",
-    "content/Vibe/Добавление пользователя вручную.md",
     "content/Vibe/assets/customers-create.png",
     "content/Vibe/assets/sync-order-confirm.png",
-    "content/Vibe/Technical FAQ.md",
-    "content/Vibe/Синхронизация заказа с TC.md",
     "content/Vibe/assets/sync-order.png",
     "content/Vibe/Pasted image 20240705160442.png",
     "content/Vibe/assets/create_report.png",
