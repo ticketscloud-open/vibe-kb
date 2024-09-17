@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Checkpoint/Smartcode.md",
+                "file": "content/Common/Список банков для СБП.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/Checkpoint/Smartcode.md",
+                "file": "content/Common/Список банков для СБП.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/Checkpoint/Smartcode.md",
+                "file": "content/Common/Список банков для СБП.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/Checkpoint/Smartcode.md"
+                "file": "content/Common/Список банков для СБП.md"
               }
             }
           }
@@ -162,8 +162,13 @@
   },
   "active": "1845e4fbc8a7c76b",
   "lastOpenFiles": [
-    "content/Checkpoint/Checkpoint.md",
+    "content/Common/Markdown.md",
+    "content/Common/Список банков для СБП.md",
+    "README.md",
+    "Vibe IT безопасность.pdf",
+    "Инструкция по запуску пластинки.pdf",
     "content/Checkpoint/Smartcode.md",
+    "content/Checkpoint/Checkpoint.md",
     "content/Vibe/Technical FAQ.md",
     "content/Vibe/Синхронизация заказов для мероприятия с TC.md",
     "content/Vibe/Функционал Vibeapp.md",
@@ -188,9 +193,6 @@
     "content/Vibe/Vibeapp.md",
     "content/Vibe/История версий.md",
     "content/Vibe/Vibe-Admin Pushes.md",
-    "content/index.md",
-    "content/Vibe/index.md",
-    "content/Vibe/Vibe-Admin Customers.md",
     "content/Vibe/assets/customers-create.png",
     "content/Vibe/assets/sync-order-confirm.png",
     "content/Vibe/assets/sync-order.png",
@@ -205,8 +207,6 @@
     "public/index.xml",
     "public/sitemap.xml",
     "public/index.html",
-    "public/Common/Obsidian.html",
-    "public/Common/Markdown.html",
-    "public/postscript.js"
+    "public/Common/Obsidian.html"
   ]
 }
