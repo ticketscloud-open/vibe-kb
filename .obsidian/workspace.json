@@ -62,7 +62,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "event-ca",
+                "query": "la",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -79,7 +79,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -160,7 +161,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1845e4fbc8a7c76b",
+  "active": "1d282eaa85659d7e",
   "lastOpenFiles": [
     "content/Common/Markdown.md",
     "content/Common/Список банков для СБП.md",
