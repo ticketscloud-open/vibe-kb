@@ -8,10 +8,12 @@
     $ sudo apt install wireguard
     ```
 
+
 2. Create configuration file:
     ```
     $ sudo touch /etc/wireguard/wg0.conf
     ```
+
 
 3. Add to `wg0.conf` following settings:
     ```
@@ -28,10 +30,12 @@
 
     Replace `CLIENT_PRIVATE_KEY` with your private key.
 
+
 4. Run
     ```
     sudo wg-quick up wg0
     ```
+
     You can check the connection with:
     ```
     sudo wg
@@ -64,6 +68,7 @@
     ```
     $ sudo systemctl enable wg-quick@wg0
     ```
+
     To remove this:
     ```
     $ sudo systemctl disable wg-quick@wg0
