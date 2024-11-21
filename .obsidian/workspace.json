@@ -137,13 +137,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Vibe/Деавторизация пользователя.md",
+                "file": "content/Vibe/Блокировка и активация пользователя.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Деавторизация пользователя"
+              "title": "Блокировка и активация пользователя"
             }
           }
         ],
@@ -219,7 +219,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/Vibe/Деавторизация пользователя.md",
+                "file": "content/Vibe/Блокировка и активация пользователя.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -229,7 +229,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Деавторизация пользователя"
+              "title": "Backlinks for Блокировка и активация пользователя"
             }
           },
           {
@@ -238,12 +238,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/Vibe/Деавторизация пользователя.md",
+                "file": "content/Vibe/Блокировка и активация пользователя.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Деавторизация пользователя"
+              "title": "Outgoing links from Блокировка и активация пользователя"
             }
           },
           {
@@ -265,10 +265,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/Vibe/Деавторизация пользователя.md"
+                "file": "content/Vibe/Блокировка и активация пользователя.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Деавторизация пользователя"
+              "title": "Outline of Блокировка и активация пользователя"
             }
           }
         ],
@@ -290,9 +290,10 @@
   },
   "active": "8573676ea36666b4",
   "lastOpenFiles": [
-    "content/Vibe/Vibe-Admin Customers.md",
-    "content/Vibe/Блокировка и активация пользователя.md",
     "content/Vibe/Деавторизация пользователя.md",
+    "content/Vibe/Блокировка и активация пользователя.md",
+    "content/Vibe/Белый экран в админке.md",
+    "content/Vibe/Vibe-Admin Customers.md",
     "content/Vibe/assets/customer-deauthorize-confirm.png",
     "content/Vibe/assets/customer-deauthorize.png",
     "content/Vibe/Vibe-admin manage balance.md",
@@ -320,7 +321,6 @@
     "content/Vibe/Получение отчета по пушам (push report).md",
     "content/Vibe/Отключение продаж и дарения для мероприятий.md",
     "content/Vibe/История версий.md",
-    "content/Vibe/Белый экран в админке.md",
     "content/Common/Список банков для СБП.md",
     "Vibe IT безопасность.pdf",
     "Инструкция по запуску пластинки.pdf",
