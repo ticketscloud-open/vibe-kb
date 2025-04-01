@@ -15,9 +15,11 @@
               "state": {
                 "file": "content/Vibe/Баланс.md",
                 "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Баланс"
             }
           },
           {
@@ -26,14 +28,17 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Vibe/Синхронизация заказов для мероприятия с TC.md",
+                "file": "content/Vibe/Vibe-KB.md",
                 "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Vibe-KB"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -52,8 +57,11 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
-              }
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -68,7 +76,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -76,7 +86,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -99,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/Vibe/Баланс.md",
+                "file": "content/Vibe/Vibe-KB.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +119,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Vibe-KB"
             }
           },
           {
@@ -116,10 +130,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/Vibe/Баланс.md",
+                "file": "content/Vibe/Vibe-KB.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Vibe-KB"
             }
           },
           {
@@ -129,8 +145,12 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
-              }
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -139,8 +159,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/Vibe/Баланс.md"
-              }
+                "file": "content/Vibe/Vibe-KB.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Vibe-KB"
             }
           }
         ],
@@ -160,9 +185,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1845e4fbc8a7c76b",
+  "active": "99372bdb8f0b6535",
   "lastOpenFiles": [
     "content/Vibe/Транзакция.md",
+    "content/Checkpoint/Checkpoint.md",
+    "content/Checkpoint/Настройка количества проходов для категории.md",
+    "content/Checkpoint/Checkpoint - статусы.md",
+    "content/Checkpoint/FAQ (Checkpoint).md",
+    "content/Checkpoint/Checkpoint-Mobile.md",
+    "content/Checkpoint/Checkpoint-Dashboard.md",
+    "content/Checkpoint/Checkpoint-Admin.md",
+    "content/Vibe/Синхронизация заказов для мероприятия с TC.md",
     "content/Vibe/Баланс.md",
     "content/Vibe/Wireguard.md",
     "content/Vibe/История версий.md",
@@ -171,25 +204,17 @@
     "content/Vibe/Белый экран в админке.md",
     "content/Vibe/Функционал Vibeapp.md",
     "content/Vibe/Синхронизация заказа с TC.md",
-    "content/Vibe/Синхронизация заказов для мероприятия с TC.md",
     "content/Common/Список банков для СБП.md",
     "content/Common/Markdown.md",
     "README.md",
     "Vibe IT безопасность.pdf",
     "Инструкция по запуску пластинки.pdf",
     "content/Checkpoint/Smartcode.md",
-    "content/Checkpoint/Checkpoint.md",
     "content/Vibe/Technical FAQ.md",
     "content/Vibe/Vibe-Admin.md",
     "content/Vibe/Vibe-admin manage balance.md",
     "content/Vibe/Vibe-Admin Events.md",
-    "content/Checkpoint/Checkpoint-Mobile.md",
-    "content/Checkpoint/Checkpoint-Admin.md",
-    "content/Checkpoint/Checkpoint-Dashboard.md",
-    "content/Checkpoint/Настройка количества проходов для категории.md",
     "content/Checkpoint/История версий.md",
-    "content/Checkpoint/index.md",
-    "content/Checkpoint/FAQ (Checkpoint).md",
     "content/Vibe/assets/org-chat-message.png",
     "content/Vibe/assets/admin-tickets.png",
     "content/Vibe/assets/admin-ticket.png",
