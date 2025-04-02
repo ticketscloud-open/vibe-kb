@@ -11,10 +11,15 @@
             "id": "0b95001b7264f645",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "content/Common/Заявление на отпуск.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Заявление на отпуск"
             }
           }
         ]
@@ -136,12 +141,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "content/Common/Заявление на отпуск.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Заявление на отпуск"
             }
           }
         ],
@@ -163,6 +169,8 @@
   },
   "active": "0b95001b7264f645",
   "lastOpenFiles": [
+    "content/Common/Очистка кеша в браузере.md",
+    "content/Common/Заявление на отпуск.md",
     "conflict-files-obsidian-git.md",
     "content/Vibe/Баланс.md",
     "content/Vibe/Vibe-KB.md",
@@ -195,8 +203,6 @@
     "README.md",
     "Vibe IT безопасность.pdf",
     "Инструкция по запуску пластинки.pdf",
-    "content/Checkpoint/Smartcode.md",
-    "content/Vibe/Technical FAQ.md",
     "content/Vibe/assets/org-chat-message.png",
     "content/Vibe/assets/admin-tickets.png",
     "content/Vibe/assets/admin-ticket.png",
