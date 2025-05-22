@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/index.md",
+                "file": "content/Common/Заявление на отпуск.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Заявление на отпуск"
             }
           }
         ]
@@ -141,13 +141,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/index.md",
+                "file": "content/Common/Заявление на отпуск.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of index"
+              "title": "Outline of Заявление на отпуск"
             }
           }
         ],
@@ -169,10 +169,13 @@
   },
   "active": "0b95001b7264f645",
   "lastOpenFiles": [
+    "content/index.md",
     "content/Common/Заявление на отпуск.md",
+    "content/Common/assets/vacancy.png",
+    "content/Common/Очистка кеша в браузере.md",
+    "content/Common/assets/cache2.png",
     "Настройка sing-box (openwrt).pdf",
     "Урок 1.pdf",
-    "content/Common/Очистка кеша в браузере.md",
     "conflict-files-obsidian-git.md",
     "content/Vibe/Баланс.md",
     "content/Vibe/Vibe-KB.md",
@@ -201,13 +204,10 @@
     "content/Vibe/Функционал Vibeapp.md",
     "content/Vibe/Синхронизация заказа с TC.md",
     "content/Common/Список банков для СБП.md",
-    "content/Common/Markdown.md",
     "Vibe IT безопасность.pdf",
     "Инструкция по запуску пластинки.pdf",
     "content/Vibe/assets/org-chat-message.png",
     "content/Vibe/assets/admin-tickets.png",
-    "content/Vibe/assets/admin-ticket.png",
-    "content/Vibe/assets/customers-create.png",
     "content/Vibe/assets",
     "content/Common/assets",
     "public/404.html",
