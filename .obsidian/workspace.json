@@ -4,25 +4,41 @@
     "type": "split",
     "children": [
       {
-        "id": "f723619b1456b83b",
+        "id": "af2e33b5637fcf6b",
         "type": "tabs",
         "children": [
           {
-            "id": "0b95001b7264f645",
+            "id": "58538530bdebcd95",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Common/Заявление на отпуск.md",
+                "file": "content/Vibe/Wireguard.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Заявление на отпуск"
+              "title": "Wireguard"
+            }
+          },
+          {
+            "id": "b1b30fdca9ae24d5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/TBank/Выпуск или обновление сертификата.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Выпуск или обновление сертификата"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -79,8 +95,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 239.50260543823242,
-    "collapsed": true
+    "width": 239.50260543823242
   },
   "right": {
     "id": "eeb5040327021950",
@@ -166,13 +181,24 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": true,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0b95001b7264f645",
+  "active": "b1b30fdca9ae24d5",
   "lastOpenFiles": [
-    "content/index.md",
+    "content/Vibe/Wireguard.md",
+    "content/TBank/Выпуск или обновление сертификата.md",
+    "content/TBank/assets/tbank_cert_gen_form.png",
+    "content/TBank/assets/file1.png",
+    "content/TBank/assets/Снимок экрана от 2025-05-28 16-46-38.png",
+    "content/TBank/assets",
+    "content/TBank/Untitled.canvas",
+    "README.md",
+    "content/TBank",
+    "Untitled",
     "content/Common/Заявление на отпуск.md",
+    "content/index.md",
     "content/Common/assets/vacancy.png",
     "content/Common/Очистка кеша в браузере.md",
     "content/Common/assets/cache2.png",
@@ -188,7 +214,6 @@
     "content/Vibe/assets/customer-block.png",
     "content/Vibe/assets/customer-block-confirm.png",
     "content/Vibe/assets/customer-activate.png",
-    "content/Vibe/assets/customer-activate-confirm.png",
     "content/Vibe/Транзакция.md",
     "content/Checkpoint/Checkpoint.md",
     "content/Checkpoint/Настройка количества проходов для категории.md",
@@ -198,23 +223,15 @@
     "content/Checkpoint/Checkpoint-Dashboard.md",
     "content/Checkpoint/Checkpoint-Admin.md",
     "content/Vibe/Синхронизация заказов для мероприятия с TC.md",
-    "content/Vibe/Wireguard.md",
     "content/Vibe/История версий.md",
     "content/Vibe/Изменение (воскрешение) статуса (использованного, погашенного) билета в Vibe.md",
     "content/Vibe/Добавление пользователя вручную.md",
     "content/Vibe/Белый экран в админке.md",
     "content/Vibe/Функционал Vibeapp.md",
-    "content/Vibe/Синхронизация заказа с TC.md",
-    "content/Common/Список банков для СБП.md",
     "Vibe IT безопасность.pdf",
     "Инструкция по запуску пластинки.pdf",
-    "content/Vibe/assets/org-chat-message.png",
-    "content/Vibe/assets/admin-tickets.png",
     "content/Vibe/assets",
     "content/Common/assets",
-    "public/404.html",
-    "public/static/contentIndex.json",
-    "public/index.xml",
-    "public/sitemap.xml"
+    "public/404.html"
   ]
 }
