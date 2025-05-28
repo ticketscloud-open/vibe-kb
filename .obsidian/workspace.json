@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Vibe/Wireguard.md",
+                "file": "content/Vibe/Vibe-Admin.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Wireguard"
+              "title": "Vibe-Admin"
             }
           },
           {
