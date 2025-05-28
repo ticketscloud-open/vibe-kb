@@ -29,7 +29,7 @@
               "type": "markdown",
               "state": {
                 "file": "content/TBank/Выпуск или обновление сертификата.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false,
                 "backlinks": false
               },
@@ -187,8 +187,9 @@
   },
   "active": "b1b30fdca9ae24d5",
   "lastOpenFiles": [
-    "content/Vibe/Wireguard.md",
+    "content/Vibe/Vibe-Admin.md",
     "content/TBank/Выпуск или обновление сертификата.md",
+    "content/Vibe/Wireguard.md",
     "content/TBank/assets/tbank_cert_gen_form.png",
     "content/TBank/assets/file1.png",
     "content/TBank/assets/Снимок экрана от 2025-05-28 16-46-38.png",
