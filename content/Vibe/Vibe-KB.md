@@ -31,12 +31,12 @@ git clone https://github.com/ticketscloud/vibe-kb.git
 
 ## Синхронизация изменений
 
-Для синхронизации изменений мы используем плагин [Obsidian-git](https://github.com/denolehov/obsidian-git). После внесения изменений вызовите командную панель ==Cmd+P== для MacOS и вызовите команду `Git: create backup`.
+Для синхронизации изменений мы используем плагин [Obsidian-git](https://github.com/denolehov/obsidian-git). После внесения изменений вызовите командную панель ==Cmd+P== для MacOS и вызовите команду `Git: Commit-and-sync`.
 
 > [!tip] Для вызова командной панели (command pallete) можно также воспользоваться кнопкой `>_` в панели слева
 
 > [!warning] Для синхронизации изменений ваша учетная запись на Github должна обладать правами на запись в репозиторий [ticketscloud/vibe-kb](https://github.com/ticketscloud/vibe-kb)
 
-![[backup.png]]
+![[git.png]]
 
 Obsidian сохранить все изменения в Git и отправит их в репозиторий. После [сборки](https://github.com/ticketscloud/vibe-kb/actions) (обычно занимает несколько минут) обновленная база будет доступна по адресу: https://kb.vibeapp.ru.
