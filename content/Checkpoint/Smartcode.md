@@ -68,7 +68,7 @@ const smartcode = encode(ticket.id, ticket.barcode)
 // smart1://42:1726136260...@...
 ```
 
-### 🔐 Пример валидация смарткода (Node.js)
+### 🔐 Пример валидации смарткода (Node.js)
 
 ```javascript
 const crypto = require('crypto')
