@@ -30,11 +30,11 @@ smart1://{pid}:{timestamp}{signature}@{meta}
 
 ### 🧾 Глоссарий
 
-- **pid** — публичный идентификатор билета (уникальный ID в системе).
-- **secret** — приватный ключ (в v1 — цифровой штрихкод).
-- **meta** — необязательные публичные данные, например: `3620` (последние цифры телефона).
-- **timestamp** — UNIX-время генерации (в секундах, 10 символов).
-- **signature** — MD5-хеш из `{pid}{timestamp}{meta}{secret}` (32 символа).
+- **pid** — публичный идентификатор билета (уникальный ID в системе)
+- **timestamp** — UNIX-время генерации (в секундах, 10 символов)
+- **secret** — приватный ключ (в v1 — цифровой штрихкод)
+- **meta** — необязательные публичные данные, например: `3620` (последние цифры телефона)
+- **signature** — MD5-хеш из `{pid}{timestamp}{meta}{secret}` (32 символа)
 
 > Если `pid` или `meta` содержат символы `:/@`, они должны быть закодированы через URL encoding.
 
@@ -76,7 +76,7 @@ const crypto = require('crypto')
 const smart1Re = /smart1:\/\/(?<pid>[^:]+):(?<ts>\d{10})(?<sign>[a-f0-9]{32})@(?<meta>.*)/
 
 function parse(smartcode, ttl = 10) {
-const match = smart1Re.exec(smartcode)
+  const match = smart1Re.exec(smartcode)
   if (!match) throw new Error('Invalid Smartcode')
   const { pid, ts, sign, meta } = match.groups
   const currentTime = Math.floor(Date.now() / 1000)
@@ -123,8 +123,8 @@ function decode(smartcode, secret, ttl = 10) {
 
 ## SMART v1
 
-- secret: цифровой штрихкод билета
-- meta: 4 последние цифры телефона владельца
+- **secret**: цифровой штрихкод билета
+- **meta**: 4 последние цифры телефона владельца
 
 **СКД**:
 - ищет билет по pid
