@@ -10,6 +10,7 @@ aliases:
 	- [[Vibeapp|Мобильное приложение Vibe]]
 	- [[Vibe-Admin|Админка Vibe]]
 	- [[Vibe-KB|База данных Vibe]]
+	- [[Vibe-Feed|Лента Vibe]]
 
 
 - [[Checkpoint/|Сервис сканирования]]
