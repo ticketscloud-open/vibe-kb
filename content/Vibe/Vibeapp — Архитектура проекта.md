@@ -7,50 +7,45 @@
 ## **📱 Мобильное приложение**
 
  **Технологии:**
-
-- **TypeScript**
-- **React Native**
-- **SQLite** — локальное хранилище данных
+- [TypeScript](https://www.typescriptlang.org/)
+- [React Native](https://reactnative.dev/)
+- [SQLite](https://www.sqlite.org/index.html) — локальное хранилище данных
 
 ## **🖥️ Веб-приложение**
 
   **Технологии:**
-
-- **TypeScript**
-- **Next.js**
-- **React**
+- [TypeScript](https://www.typescriptlang.org/)
+- [Next.js](https://nextjs.org/)
+- [React](https://react.dev/)
 
 ## **💬 Telegram-приложение**
 
   **Технологии:**
-
-- **TypeScript**
-- **Next.js**
-- **React**
+- [TypeScript](https://www.typescriptlang.org/)
+- [Next.js](https://nextjs.org/)
+- [React](https://react.dev/)
 
 > Используется для взаимодействия пользователей через Telegram с полной синхронизацией и авторизацией.
 
 ## **🔌 API и интеграции**
 
   **Бэкенд:**
+- [Python](https://www.python.org/)
+- [Asyncio](https://docs.python.org/3/library/asyncio.html)
+- [Muffin](https://github.com/klen/muffin) — ASGI-фреймворк
 
-- **Python**, **Asyncio**
-- [**Muffin**](https://github.com/klen/muffin) — ASGI-фреймворк
-
-**Хранилища:**
-
-- **PostgreSQL**
-- **Redis**
+**Хранилища и кеш:**
+- [PostgreSQL](https://www.postgresql.org/)
+- [Redis](https://redis.io/)
 
 **Взаимодействие:**
-
 - **WebSockets**
-- **Kafka**, **RabbitMQ** — для событийной и асинхронной обработки
+- [Kafka](https://kafka.apache.org/)
+- [RabbitMQ](https://www.rabbitmq.com/)
 
 ## **⚙️ DevOps и инфраструктура**
 
   **Инструменты:**
-
-- **Ansible** — автоматизация конфигураций и деплоя
-- **Docker** (Swarm) — контейнеризация и оркестрация
-- **Traefik** — динамический роутинг и балансировка нагрузки
+- [Ansible](https://www.ansible.com/) — автоматизация конфигураций и деплоя
+- [Docker](https://www.docker.com/) (Swarm) — контейнеризация и оркестрация
+- [Traefik](https://traefik.io/) — динамический роутинг и балансировка нагрузки
