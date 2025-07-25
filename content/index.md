@@ -20,4 +20,7 @@ aliases:
 	- [[FAQ (Checkpoint)]]
 
 
+- [[Salespoint/|Salespoint]]
+	- [[KKT - ошибка ФН 235]] 
+
 - [[Common/|Общие вопросы]]
