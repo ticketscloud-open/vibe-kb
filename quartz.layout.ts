@@ -6,10 +6,7 @@ export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
   header: [],
   footer: Component.Footer({
-    links: {
-      GitHub: "https://github.com/ticketscloud/vibe-kb",
-      Slack: "https://ticketscloud.slack.com/archives/CKBMM7U8Z",
-    },
+    links: {},
   }),
 }
 
