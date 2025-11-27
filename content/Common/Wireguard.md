@@ -4,18 +4,18 @@ Download client: https://www.wireguard.com/install/
 
 Ensure that you have superuser rights or do it from `sudo`.
 
-1. Install:
+#### Install
   ```
   $ apt update
   $ apt install wireguard
   ```
 
-2. Create configuration file:
+#### Create configuration file:
   ```
   $ touch /etc/wireguard/wg0.conf
   ```
 
-3. Add to `wg0.conf` following settings:
+#### Add to `wg0.conf` following settings:
   ```
   [Interface]
   Address = 10.128.0.14/32
@@ -31,8 +31,7 @@ Ensure that you have superuser rights or do it from `sudo`.
 
   Replace `CLIENT_PRIVATE_KEY` with your private key.
 
-4. Run
-
+#### Run
   ```
   wg-quick up wg0
   ```
@@ -58,7 +57,7 @@ Ensure that you have superuser rights or do it from `sudo`.
 
   Also you can ping the server with: `ping 10.128.0.14`
 
-5. Start at Boot
+#### Start at Boot
 
   If you want to start your WireGuard after every system reboot just run:
 
