@@ -1,4 +1,4 @@
-* Download client: https://www.wireguard.com/install/
+Download client: https://www.wireguard.com/install/
 
 ### Setup and run on Ubuntu
 
