@@ -5,20 +5,17 @@
 Ensure that you have superuser rights or do it from `sudo`.
 
 1. Install:
-
   ```
   $ apt update
   $ apt install wireguard
   ```
 
 2. Create configuration file:
-
   ```
   $ touch /etc/wireguard/wg0.conf
   ```
 
 3. Add to `wg0.conf` following settings:
-
   ```
   [Interface]
   Address = 10.128.0.14/32
