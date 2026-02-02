@@ -26,25 +26,36 @@ Overlay private"]
       API["API Service
 Monolith
 Public API Admin API
-Webhooks T-Bank Checkpoint"]
+Webhooks T-Bank"]
       Sockets["Sockets Service
 WebSocket realtime"]
       Tasks["Tasks Service
 Workers"]
       Streams["Streams Service
-Event processing"]
+Event processing
+aiokafka"]
 
-      PG["PostgreSQL 14"]
-      Redis["Redis 8.2.2"]
-      RMQ["RabbitMQ 4.1.4"]
-      Kafka["Kafka 3.9.1"]
+      Redis["Redis 8.2.2
+container"]
+      RMQ["RabbitMQ 4.1.4
+container"]
     end
+  end
+
+  subgraph Managed["Managed services
+Yandex Cloud"]
+    PG["PostgreSQL 14
+managed"]
+    Kafka["Apache Kafka 3.9.1
+managed"]
   end
 
   subgraph External["External systems"]
     Ticketcloud["Ticketcloud"]
-    Checkpoint["Checkpoint SKD"]
-    TBank["T-Bank"]
+    Checkpoint["Checkpoint SKD
+Kafka only"]
+    TBank["T-Bank
+Webhooks"]
     MTSID["MTS ID"]
     Exolve["MTS Exolve"]
     Firebase["Firebase FCM APNs"]
@@ -61,26 +72,27 @@ Event processing"]
   Traefik --> API
   Traefik --> Sockets
 
-  API --> PG
   API --> Redis
   API --> RMQ
+  API --> PG
   API --> Kafka
 
   Sockets --> Redis
   Sockets --> PG
 
   Tasks --> RMQ
-  Tasks --> PG
   Tasks --> Redis
+  Tasks --> PG
 
   Streams --> Kafka
   Streams --> PG
-
-  API --> Ticketcloud
   Streams --> Ticketcloud
 
-  API --> Checkpoint
-  Checkpoint --> API
+  API --> Ticketcloud
+
+  Streams --> Checkpoint
+  Checkpoint --> Kafka
+  Kafka --> Streams
 
   API --> TBank
   TBank --> API
@@ -99,3 +111,35 @@ Event processing"]
   WebApp --> Metrika
   Mobile --> Sentry
 ```
+
+### Edge / публичный вход
+
+- Публично опубликован только **Traefik** (HTTPS).
+- Traefik маршрутизирует:
+    - HTTP(S) на **API Service**
+    - WebSocket на **Sockets Service** (в рамках того же домена).
+
+- **Webhooks принимает только API Service от T-Bank**.
+
+### Внутренний контур (Docker Swarm)
+
+Контейнеры во внутренней сети (без публичных портов):
+
+- **API Service (монолит)** — Public API + Admin API + webhooks T-Bank.
+- **Sockets Service** — realtime (WS) за Traefik.
+- **Tasks Service** — воркеры (RabbitMQ consumers).
+- **Streams Service** — обработка событий / интеграционные потоки через Kafka (aiokafka).
+- **Redis (container)**, **RabbitMQ (container)**.
+
+### Managed сервисы (Yandex Cloud)
+
+- **PostgreSQL 14 (managed)**
+- **Apache Kafka 3.9.1 (managed)** — транспорт для интеграционных потоков, в том числе:
+    - Vibeapp → Checkpoint (смена владельца билета)
+    - Checkpoint → Vibeapp (погашение билета)
+    - Vibeapp → Ticketscloud (смена владельца билета)
+    - Ticketscloud → Vibeapp (билеты, мероприятия, возвраты)
+
+### Внешние системы
+
+- Ticketcloud, Checkpoint, T-Bank, MTS ID, MTS Exolve, Firebase, Yandex Object Storage, Sentry, Yandex Metrika, MyTracker — используются по публичным API/SDK.
