@@ -4,59 +4,68 @@
 
 ```mermaid
 flowchart LR
-  %% C4 Level 1 — System Context (Vibeapp)
 
-  classDef system fill:#e8f0fe,stroke:#1a73e8,stroke-width:1px,color:#1a73e8;
-  classDef person fill:#fff7e6,stroke:#f29900,stroke-width:1px,color:#7a4b00;
-  classDef external fill:#eef7ee,stroke:#1e8e3e,stroke-width:1px,color:#1e8e3e;
+  Guest["Гость"]
+  User["Зарегистрированный пользователь"]
 
-  %% People
-  Guest[/"Гость"/]:::person
-  User[/"Зарегистрированный пользователь"/]:::person
-  Support[/"Support"/]:::person
-  CM[/"Контент-менеджер"/]:::person
-  Mod[/"Модератор"/]:::person
-  Analyst[/"Аналитик"/]:::person
+  Support["Support"]
+  Content["Контент-менеджер"]
+  Moderator["Модератор"]
+  Analyst["Аналитик"]
 
-  %% System
-  Vibe["Vibeapp<br/>(Mobile App + Web App + Backend/API + Admin Panel)<br/>B2C: билеты, передача и перепродажа, знакомства и чат, offline-first"]:::system
+  Vibe["Vibeapp
+Mobile App
+Web App
+Backend API
+Admin Panel"]
 
-  %% External systems
-  TC["Ticketcloud<br/>(Primary Ticketing System)"]:::external
-  TBank["T-Bank<br/>(Эквайринг вторички + биллинг/сверка/возвраты/фискализация)<br/>Webhooks статусов"]:::external
-  MTSID["MTS ID<br/>(OAuth)"]:::external
-  Exolve["MTS Exolve<br/>(SMS)"]:::external
-  Firebase["Firebase<br/>(FCM/APNs Push)"]:::external
-  Metrika["Yandex Metrika<br/>(Analytics)"]:::external
-  MyTracker["MyTracker<br/>(Analytics)"]:::external
-  Sentry["Sentry<br/>(Errors & Logs)"]:::external
-  YS3["Yandex Object Storage (S3)<br/>(Аватары и медиа)"]:::external
+  Ticketcloud["Ticketcloud
+Primary ticketing
+Каталог и первичная покупка"]
 
-  %% Relationships: People -> System
-  Guest -->|"Просмотр, онбординг, старт регистрации"| Vibe
-  User -->|"Билеты: хранение, передача, перепродажа<br/>Знакомства и общение<br/>Offline-first"| Vibe
+  TBank["T-Bank
+Эквайринг вторичной продажи
+Возвраты и фискализация"]
 
-  Support -->|"Операционные задачи через Admin Panel"| Vibe
-  CM -->|"Управление контентом через Admin Panel"| Vibe
-  Mod -->|"Модерация через Admin Panel"| Vibe
-  Analyst -->|"Метрики и отчеты через Admin Panel"| Vibe
+  MTSID["MTS ID
+OAuth авторизация"]
 
-  %% Relationships: System <-> External
-  Vibe -->|"Получение мероприятий и билетов<br/>Первичная покупка и возврат первички"| TC
-  TC -->|"Данные мероприятий и билетов<br/>Статусы первичных операций"| Vibe
-  Vibe -->|"Синхронизация ownership после операций Vibeapp<br/>Передача и перепродажа"| TC
+  Exolve["MTS Exolve
+SMS"]
 
-  Vibe -->|"Вторичная продажа: создание заказа и платежа<br/>Возврат вторички<br/>Сверка и фискализация"| TBank
-  TBank -->|"Подтверждения и webhooks статусов<br/>Платеж, возврат, фискализация"| Vibe
+  Firebase["Firebase
+FCM APNs Push"]
 
-  Vibe <-->|"OAuth login"| MTSID
-  Vibe -->|"OTP и сервисные SMS"| Exolve
-  Vibe -->|"Токены устройств и push payload"| Firebase
+  Metrika["Yandex Metrika"]
+  MyTracker["MyTracker"]
+  Sentry["Sentry"]
 
-  Vibe -->|"События приложения"| Metrika
-  Vibe -->|"События приложения"| MyTracker
-  Vibe -->|"Ошибки, логи, трейсы"| Sentry
-  Vibe -->|"Upload и Read аватарок и медиа"| YS3
+  Storage["Yandex Object Storage
+S3"]
+
+  Guest --> Vibe
+  User --> Vibe
+
+  Support --> Vibe
+  Content --> Vibe
+  Moderator --> Vibe
+  Analyst --> Vibe
+
+  Vibe --> Ticketcloud
+  Ticketcloud --> Vibe
+
+  Vibe --> TBank
+  TBank --> Vibe
+
+  Vibe --> MTSID
+  Vibe --> Exolve
+  Vibe --> Firebase
+
+  Vibe --> Metrika
+  Vibe --> MyTracker
+  Vibe --> Sentry
+
+  Vibe --> Storage
 ```
 
 **Vibeapp** — B2C система (Mobile App + Web App + Backend/API + Admin Panel), обеспечивающая:
