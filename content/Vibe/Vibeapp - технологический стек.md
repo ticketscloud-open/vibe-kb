@@ -6,8 +6,8 @@
 ### Mobile App
 
 - **Платформа**: iOS / Android
-- **Framework**: React Native
-- **Язык**: TypeScript
+- **Framework**: React Native 0.83.0
+- **Язык**: TypeScript 5.8.3
 - **Локальное хранилище (offline-first)**: SQLite / Realm
 - **Аутентификация**: JWT
 - **Push-уведомления**: Firebase Cloud Messaging (FCM) / Apple Push Notification Service (APNs)
@@ -18,8 +18,8 @@
 ### Web App (пользовательское)
 
 - **Тип**: SSR (web application)
-- **Framework**: React/Next
-- **Язык**: TypeScript
+- **Framework**: React/NextJS
+- **Язык**: TypeScript 5.8.3
 - **Аутентификация**: JWT
 - **Мониторинг ошибок**: Sentry SDK
 - **Аналитика**:
@@ -38,19 +38,10 @@
 ### API Service (основной backend)
 
 - **Архитектура**: монолит, логически разделённый на модули
-- **Язык**: Python 3.13
 - **Framework**: Muffin 1.2.0
+- **Язык**: Python 3.13
 - **Протоколы**: REST API
 - **Аутентификация**: JWT (отдельный механизм для admin)
-
-**Модули:**
-
-- Auth / Users
-- Tickets (ownership, передача, синхронизация)
-- Marketplace (вторичная продажа)
-- Social / Chat
-- Notifications
-- Integrations (Ticketcloud, T-Bank, Checkpoint)
 
 ### Sockets Service (realtime)
 
