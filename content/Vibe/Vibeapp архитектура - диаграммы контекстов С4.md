@@ -1,5 +1,7 @@
 [[Vibeapp]] - [[Vibeapp — Архитектура проекта]]
 
+[[Vibeapp - технологический стек]]
+
 ## Level 1
 
 ```mermaid
