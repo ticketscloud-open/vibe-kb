@@ -11,6 +11,7 @@ aliases:
 	- [[Vibe-Admin|Админка Vibe]]
 	- [[Vibe-KB|База данных Vibe]]
 	- [[Vibe-Feed|Лента Vibe]]
+	- [[Vibeapp — Архитектура проекта|Архитектура проекта]]
 
 
 - [[Checkpoint/|Сервис сканирования]]
