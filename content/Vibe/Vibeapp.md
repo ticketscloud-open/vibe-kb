@@ -16,8 +16,14 @@ aliases:
 - [Google Play (Android)](https://vibeapp.ru/android) / ([альтернативная](https://play.google.com/store/apps/details?id=org.ticketscloud.ticketwallet))
 - [APK file](https://vibeapp.ru/android-download)
 
-## Брендбук
+## Ссылки
 
+- Сайт: https://vibeapp.ru
+- Веб. версия: https://web.vibeapp.ru
+- Группа VK: https://vk.com/vibeapp
+- Таплинк: https://taplink.cc/vibeapp.ru
+- Инстаграм: https://www.instagram.com/vibeapp.ru
+- [Медиакит](https://drive.google.com/file/d/1JzR6lkUoUsV_Th47qIKqBa2RoCOMirxs/view?usp=sharing)
 - [Vibe Guideline](https://drive.google.com/file/d/1csRHfMfKTmIFPWFnwtXvcIn2jRyiLQnZ/view)
 - [VIbe мерч](https://drive.google.com/file/d/1A_hpFrfIAuTVpmC3znIiWvuCWiE34P7W/view)
 - [Vibe лого](https://drive.google.com/drive/u/0/folders/1QuYoK88TQfkuyzsxPahSQDBA4_ufI6i6)
