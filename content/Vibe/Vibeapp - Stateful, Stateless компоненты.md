@@ -1,5 +1,7 @@
 ---
 title: Statefull / Stateless компоненты
+aliases:
+  - Statefull / Stateless компоненты
 ---
 [[Vibeapp]] - [[Vibeapp — Архитектура проекта|Архитектура проекта]]
 
