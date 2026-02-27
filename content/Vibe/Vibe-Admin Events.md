@@ -1,3 +1,8 @@
+---
+aliases:
+  - Админка мероприятий
+---
+
 [[Vibe-Admin|Админка Vibe]]
 
 Находится по адресу: https://app.vibeapp.ru/v2/brain#/event
