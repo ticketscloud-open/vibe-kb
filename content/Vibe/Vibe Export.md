@@ -1,3 +1,8 @@
+---
+aliases:
+  - Экспорт
+---
+[[Vibe]]
 
 Экспорт данных из Vibe
 
@@ -161,8 +166,6 @@ export type Message {
 
 ```typescript
 
-type TransactionType = 
-
 export type Message {
 	// Идентификатор транзакции
 	id: string;
@@ -193,4 +196,15 @@ export type Message {
 
 ### Авторизация 
 
+```typescript
+export type Message = {
+	
+}
+```
+
 ### Регистрация
+```typescript
+export type Message = {
+	
+}
+```
