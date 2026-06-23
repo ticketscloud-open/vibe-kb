@@ -194,17 +194,23 @@ export type Message {
 
 ## События пользователей (activity)
 
-### Авторизация 
+### Авторизация/регистрация
 
 ```typescript
 export type Message = {
-	
-}
-```
-
-### Регистрация
-```typescript
-export type Message = {
-	
+	// Тип сообщения
+	// auth - авторизация
+	// register - регистрация
+	type: "register" | "auth";
+	user: {
+		// ID в Vibe
+		id: string;
+		// Имя фамилия, никнейм в зависимости от заполнения
+		name: string | null;
+		// Номер телефона в формате E164
+		phone: string;
+		// Email
+		email: string | null;
+	}
 }
 ```
