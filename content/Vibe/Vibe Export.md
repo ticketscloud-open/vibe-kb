@@ -197,11 +197,15 @@ export type Message = {
 ### Авторизация/регистрация
 
 ```typescript
+
 export type Message = {
 	// Тип сообщения
 	// auth - авторизация
 	// register - регистрация
 	type: "register" | "auth";
+	
+	// Дата/время события (timestamp)
+	created: number;
 	
 	// Информация о пользователе
 	customer: {
