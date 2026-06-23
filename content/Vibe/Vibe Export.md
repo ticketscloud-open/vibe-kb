@@ -77,8 +77,8 @@ export type Message = {
 
 ```typescript
 
-export type Message {
-	// Внешний идентификатор мероприятия
+export type Message = {
+	// Внешний идентификатор заказа
 	id: string;
 	
 	// Идентификатор билетной системы
@@ -108,7 +108,7 @@ export type Message {
 
 ```typescript
 
-export type Message {
+export type Message = {
 	// Внешний идентификатор билета
 	id: string;
 	
@@ -166,8 +166,8 @@ export type Message {
 
 ```typescript
 
-export type Message {
-	// Идентификатор транзакции
+export type Message = {
+	// Внешний идентификатор транзакции
 	id: string;
 	
 	// Идентификатор билетной системы
@@ -202,7 +202,9 @@ export type Message = {
 	// auth - авторизация
 	// register - регистрация
 	type: "register" | "auth";
-	user: {
+	
+	// Информация о пользователе
+	customer: {
 		// ID в Vibe
 		id: string;
 		// Имя фамилия, никнейм в зависимости от заполнения
