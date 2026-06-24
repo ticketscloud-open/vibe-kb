@@ -178,6 +178,12 @@ export type Message = {
 	// Тип транзакции 
 	type: "allocate" | "subscription" | "sell" | "referral" | "withdrawal" | "donate" | "refill" | "burn" | "refund" | "redeem" | "transfer" | "escrow_unlock" | "escrow_canceled" | "reward";
 	
+	// Дата создания (timestamp)
+	created: number;
+	
+	// Дата обновления (timestamp)
+	updated: number;
+	
 	// Сумма транзакции (в копейках/центах)
 	amount: number | null 
 	
@@ -189,10 +195,17 @@ export type Message = {
 	
 	// Участник транзакции (номер телефона в формате E164)
 	customer_id: string
+	
+	// Внешний ID события
+	event_id: string;
+	
+	// Внешний ID билета
+	ticket_id: string;
 }
 ```
 
 ## События пользователей (activity)
+
 
 ### Авторизация/регистрация
 
@@ -211,12 +224,29 @@ export type Message = {
 	customer: {
 		// ID в Vibe
 		id: string;
+		
 		// Имя фамилия, никнейм в зависимости от заполнения
 		name: string | null;
+		
 		// Номер телефона в формате E164
 		phone: string;
+		
 		// Email
 		email: string | null;
+		
+		// Дата/время создания пользователя (timestamp)
+		created: number;
+		
+		// Дата/время обновления пользователя (timestamp)
+		updated: number;
+		
+		// Дата/время регистрации пользователя (timestamp)
+		registered: number | null;
+		
+		// Дата/время последней авторизации пользователя (timestamp)
+		authorized: number | null;
 	}
 }
 ```
+
+## Возвраты (refunds)
