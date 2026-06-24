@@ -239,14 +239,6 @@ export type Message = {
 		
 		// Дата/время обновления пользователя (timestamp)
 		updated: number;
-		
-		// Дата/время регистрации пользователя (timestamp)
-		registered: number | null;
-		
-		// Дата/время последней авторизации пользователя (timestamp)
-		authorized: number | null;
 	}
 }
 ```
-
-## Возвраты (refunds)
