@@ -44,7 +44,7 @@ aliases:
 - **SASL Username**: предоставляется по запросу
 - **SASL Password**: предоставляется по запросу
 
-## События (events)
+## Мероприятия (events)
 
 ```typescript
 
