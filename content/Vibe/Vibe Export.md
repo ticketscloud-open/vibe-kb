@@ -22,6 +22,24 @@ aliases:
 
 [Подробнее](https://yandex.cloud/ru/docs/managed-kafka/operations/connect/clients)
 
+#### Production
+
+- **Bootstrap servers**: `['rc1a-agdu796r4205p5ip.mdb.yandexcloud.net:9091', 'rc1b-2vq60gur5r18vpu5.mdb.yandexcloud.net:9091', 'rc1d-ft6jeu47b9bp2aff.mdb.yandexcloud.net:9091']`
+- **Security protocol**: `SASL_SSL`
+- **SASL mechanism**: `SCRAM-SHA-512`
+- **SSL CA certificate**: `https://storage.yandexcloud.net/cloud-certs/CA.pem`
+- **SASL Username**: предоставляется по запросу
+- **SASL Password**: предоставляется по запросу
+
+#### Stage/Dev
+
+- **Bootstrap servers**: `rc1a-faass3ffar5s5q6o.mdb.yandexcloud.net:9091`
+- **Security protocol**: `SASL_SSL`
+- **SASL mechanism**: `SCRAM-SHA-512`
+- **SSL CA certificate**: `https://storage.yandexcloud.net/cloud-certs/CA.pem`
+- **SASL Username**: предоставляется по запросу
+- **SASL Password**: предоставляется по запросу
+
 ## События (events)
 
 ```typescript
