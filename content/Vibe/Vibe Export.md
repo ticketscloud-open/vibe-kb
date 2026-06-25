@@ -37,7 +37,9 @@ aliases:
 
 #### Stage/Dev
 
-- **Bootstrap servers**: `rc1a-faass3ffar5s5q6o.mdb.yandexcloud.net:9091`
+- **Bootstrap servers**:
+  - `rc1a-faass3ffar5s5q6o.mdb.yandexcloud.net:9091`
+
 - **Security protocol**: `SASL_SSL`
 - **SASL mechanism**: `SCRAM-SHA-512`
 - **SSL CA certificate**: `https://storage.yandexcloud.net/cloud-certs/CA.pem`
