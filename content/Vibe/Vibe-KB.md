@@ -30,8 +30,8 @@ tags:
 
 Для работы потребуется:
 
-1. Аккаунт на GitHub.
-2. Установленный Git.
+1. Аккаунт на [GitHub](https://github.com).
+2. Установленный [Git](https://git-scm.com).
 3. Установленный [[Obsidian]].
 
 Скачать **Obsidian** можно здесь: https://obsidian.md/download
@@ -42,7 +42,7 @@ Git используется для хранения истории измене
 
 ### macOS
 
-Если у вас установлен Homebrew:
+Если у вас установлен [Homebrew](https://brew.sh):
 
 ```
 brew install git
