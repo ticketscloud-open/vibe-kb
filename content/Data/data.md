@@ -453,7 +453,7 @@
 | --- | ------------- | ---------------------- | -------------------------------------------------------------------------- | -------------------------- |
 | 1   | meta_partner  | FixedString(24)        | id объединенного организатора из mart_clients                              | 5b24e5c68522fa000b14b82b   |
 | 2   | name          | Nullable(String)       | legals.detail.name главного legal                                          | ИП Невероятный организатор |
-| 3   | inn           | Nullable(String)       | ИНН легала                                                                 | 525717616938               |
+| 3   | inn           | Nullable(String)       | ИНН легала                                                                 | 123456789012               |
 | 4   | registered_at | Nullable(DateTime)     | MIN(legals.created_at) по группе                                           | 2018-06-16 10:26:14        |
 | 5   | first_sale_at | Nullable(DateTime)     | MIN(orders_done.done_at), done_values.full ≥ 100₽, settings.invitation = 0 | 2018-06-29 14:58:13        |
 | 6   | last_sale_at  | Nullable(DateTime)     | MAX(orders_done.done_at), done_values.full ≥ 100₽, settings.invitation = 0 | 2019-11-23 17:02:13        |
