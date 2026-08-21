@@ -82,8 +82,8 @@ title: Архитектура проекта
 | Domain                                                                                 | IP Address         |
 | -------------------------------------------------------------------------------------- | ------------------ |
 | vibeapp.ru                                                                             | ```185.215.4.16``` |
-| app.vibeapp.ru, img.vibeapp.ru, knock.vibeapp.ru,<br>sentry.vibeapp.ru, web.vibeapp.ru | `158.160.199.38`   |
-| gate.ticketscloud.com                                                                  | `212.193.58.163`   |
-| sale.ticketscloud.com                                                                  | `212.193.58.62`    |
-| check.ticketscloud.com                                                                 | `212.193.58.116`   |
-| show.ticketscloud.com                                                                  | `212.193.58.174`   |
+| app.vibeapp.ru, img.vibeapp.ru, knock.vibeapp.ru,<br>sentry.vibeapp.ru, web.vibeapp.ru | `158.160.216.199`  |
+| gate.ticketscloud.com                                                                  | `81.26.176.234`    |
+| sale.ticketscloud.com                                                                  | `81.26.176.234`    |
+| check.ticketscloud.com                                                                 | `81.26.176.234`    |
+| show.ticketscloud.com                                                                  | `81.26.176.234`    |
