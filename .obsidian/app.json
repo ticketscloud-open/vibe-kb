@@ -12,5 +12,6 @@
   "showInlineTitle": true,
   "newFileLocation": "current",
   "newFileFolderPath": "content",
-  "attachmentFolderPath": "./"
+  "attachmentFolderPath": "./",
+  "propertiesInDocument": "hidden"
 }
