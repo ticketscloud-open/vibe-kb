@@ -8,11 +8,11 @@ aliases:
 
 ### Топики Kafka
 
+- **activity** - события связанные с пользователями
 - **events** - События (мероприятия)
-- **orders** - Заказы
+- **orders** - Заказы (первичные и вторичные)
 - **tickets** - Билеты
 - **transactions** - Транзакции
-- **activity** - события связанные с пользователями
 
 ### Формат сообщений
 
@@ -115,10 +115,21 @@ export type Message = {
 
 ## Заказы (orders)
 
+В топике 2 типа сообщений:
+
+- `type=primary` Первичные заказы
+- `type=secondary` Вторичные заказы
+
 ```typescript
 
 export type Message = {
-	// Внешний идентификатор заказа
+	// Тип заказа 
+	// - primary: первичный заказ
+	// - secondary: вторичный заказ (перепродажа билета)
+	
+	type: "primary" | "secondary"
+	
+	// Идентификатор заказа (TC, TICKETLAND, VIBE)
 	id: string;
 	
 	// Идентификатор билетной системы
@@ -138,9 +149,13 @@ export type Message = {
 	// Дата/время заказа (timestamp)
 	done_at: number
 	
-	// Номер заказа
-	number: string
+	// Номер заказа (только для primary)
+	number?: string
 	
+	// ID продавца (номер телефона в формате E164)
+	// только для secondary
+	seller_id?: string;
+
 }
 ```
 
@@ -279,3 +294,82 @@ export type Message = {
 	}
 }
 ```
+
+## Акции и участие в них
+
+В топике 2 типа сообщений:
+
+- `type=campaign` Маркетинговые акции
+- `type=participation` Участие в акциях
+
+```typescript
+export type CampaignMessage = {
+
+	// Сообщение указывает на акцию
+	type: "campaign";
+	
+	// ID  в Vibe
+	id: number;
+	
+	// Признак включения/выключения акции
+	is_active: boolean;
+	
+	// Статус акции
+	status: "ongoing" | "finished" | "canceled"
+	
+	// Дата/время создания (timestamp)
+	created: number;
+	
+	// Дата/время обновления (timestamp)
+	updated: number;
+	
+	// Дата/время начала акции (timestamp)
+	start: number;
+	
+	// Дата/время окончания акции (timestamp)
+	end: number;
+	
+	// Названия акции
+	title: string;
+	title_in_app: string;
+	
+	// Описание акции
+	description: string | null;
+	
+	// Лимит участников
+	usage_limit: number;
+	
+	// Сумма и валюта награждения
+	reward: number;
+	currency: string;
+}
+
+export type CustomerCampaignMessage = {
+
+	// Сообщение указывает на участие акцию
+	type: "participation";
+	
+	// ID  в Vibe
+	id: number;
+	
+	// Дата/время создания (timestamp)
+	created: number;
+	
+	// Дата/время обновления (timestamp)
+	updated: number;
+	
+	// Дата/время участия (timestamp)
+	participate_date: number
+	
+	// Дата/время получения награды (timestamp)
+	reward_date: number | null
+	
+	// ID Акции
+	campaign_id: number
+	
+	// Участник акции (номер телефона в формате E164)
+	customer_id: string
+	
+} 
+```
+
